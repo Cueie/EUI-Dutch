@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d belgeschiedenissen gevonden</item>
+        <item quantity="one">1 belgeschiedenis gevonden</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d contacten gevonden</item>
+        <item quantity="one">1 contact gevonden</item>
+    </plurals>
+	<plurals name="listTotalAllContacts">
+        <item quantity="other">%d contacten</item>
+        <item quantity="one">1 contact</item>
+    </plurals>
+    <plurals name="rington_count">
+        <item quantity="other">%s keer bellen</item>
+        <item quantity="one">Eenmaal bellen</item>
+    </plurals>
+    <plurals name="contactsDeleteTip">
+        <item quantity="other">%s contacten verwijderen?</item>
+        <item quantity="one">Eén contact verwijderen?</item>
+    </plurals>
+    <plurals name="import_from_vcard_success">
+        <item quantity="other">Contacten geïmporteerd</item>
+        <item quantity="one">Contact geïmporteerd</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d voicemails</item>
+        <item quantity="one">Voicemail</item>
+    </plurals>
+    <plurals name="count_mult_mode">
+        <item quantity="other">%d contacten geselecteerd</item>
+        <item quantity="one">1 contact geselecteerd</item>
+    </plurals>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Downloads</string>
+    <string name="download_title_sorted_by_date">Downloads - Gesorteerd op datum</string>
+    <string name="download_title_sorted_by_size">Downloads - Gesorteerd op grootte</string>
+    <string name="no_downloads">Geen downloads.</string>
+    <string name="missing_title">&lt;Onbekend></string>
+    <string name="button_sort_by_size">Sorteren op grootte</string>
+    <string name="button_sort_by_date">Sorteren op datum</string>
+    <string name="download_queued">In wachtrij</string>
+    <string name="download_running">Bezig met downloaden</string>
+    <string name="download_success">Voltooid</string>
+    <string name="download_error">Mislukt</string>
+    <string name="dialog_title_not_available">Kon niet downloaden</string>
+    <string name="dialog_failed_body">Wilt u later opnieuw het bestand proberen te downloaden of verwijderen uit de wachtrij?</string>
+    <string name="dialog_title_queued_body">Bestand in wachtrij</string>
+    <string name="dialog_queued_body">Dit bestand staat in de wachtrij om later te downloaden en kan nu niet gebruikt worden.</string>
+    <string name="dialog_file_missing_body">Geen gedownloade bestanden gevonden.</string>
+    <string name="dialog_insufficient_space_on_external">Kan download niet voltooien. Er is niet genoeg ruimte op de externe opslag.</string>
+    <string name="dialog_insufficient_space_on_cache">Kan download niet voltooien. Er is niet genoeg ruimte op de interne opslag.</string>
+    <string name="dialog_cannot_resume">Download werd onderbroken en kan niet worden hervat.</string>
+    <string name="dialog_file_already_exists">Kan niet downloaden. Het bestand bestaat al.</string>
+    <string name="dialog_media_not_found">Kan niet downloaden. De externe media is niet beschikbaar.</string>
+    <string name="download_no_application_title">Kan bestand niet openen</string>
+    <string name="remove_download">Verwijderen</string>
+    <string name="delete_download">Verwijderen</string>
+    <string name="keep_queued_download">Behouden</string>
+    <string name="cancel_running_download">Annuleren</string>
+    <string name="retry_download">Opnieuw proberen</string>
+    <string name="deselect_all">Alle deselecteren</string>
+    <string name="select_all">Alle selecteren</string>
+    <string name="selected_count">%1$d geselecteerd uit %2$d</string>
+    <string name="download_share_dialog">Delen via</string>
+</resources>

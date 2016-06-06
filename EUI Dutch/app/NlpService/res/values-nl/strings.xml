@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MTK NLP dienst</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="hello_world">Hallo iedereen!</string>
+</resources>

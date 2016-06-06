@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Inschakelen is gepland binnen 1 minuut.</item>
+        <item>Inschakelen is gepland om te gebeuren na %1$s.</item>
+        <item>Inschakelen is gepland om te gebeuren na %2$s.</item>
+        <item>Inschakelen is gepland om te gebeuren na %1$s %2$s.</item>
+        <item>Inschakelen is gepland om te gebeuren na %3$s.</item>
+        <item>Inschakelen is gepland om te gebeuren na %1$s %3$s.</item>
+        <item>Inschakelen is gepland om te gebeuren na %2$s %3$s.</item>
+        <item>Inschakelen is gepland voor %1$s (na %2$s %3$s).</item>
+        <item>Uitschakelen is gepland binnen 1 minute.</item>
+        <item>Uitschakelen is gepland om te gebeuren na %1$s.</item>
+        <item>Uitschakelen is gepland om te gebeuren na %2$s.</item>
+        <item>Uitschakelen is gepland om te gebeuren na %1$s %2$s.</item>
+        <item>Uitschakelen is gepland om te gebeuren na %3$s.</item>
+        <item>Uitschakelen is gepland om te gebeuren na %1$s %3$s.</item>
+        <item>Uitschakelen is gepland om te gebeuren na %2$s %3$s.</item>
+        <item>Inschakelen is gepland voor %1$s (na %2$s %3$s).</item>
+    </string-array>
+</resources>

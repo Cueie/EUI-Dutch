@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="star">
+        <item>Film &amp; TV Series</item>
+        <item>Entertainment News</item>
+        <item>Recommended Wallpaper</item>
+        <item>Popular Music</item>
+        <item>Music Album</item>
+        <item>Relevant Artist</item>
+        <item>Related Weibo</item>
+        <item>Related Website</item>
+    </string-array>
+    <string-array name="player">
+        <item>Film &amp; TV Series</item>
+        <item>Sports News</item>
+        <item>Recommended Wallpaper</item>
+        <item>None</item>
+        <item>Music Album</item>
+        <item>None</item>
+        <item>Related Weibo</item>
+        <item>Related Website</item>
+    </string-array>
+    <string-array name="movie">
+        <item>Film &amp; TV Series</item>
+        <item>Entertainment News</item>
+        <item>Recommended Wallpaper</item>
+        <item>Original Music</item>
+        <item>None</item>
+        <item>Relevant Artist</item>
+        <item>None</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="team">
+        <item>Film &amp; TV Series</item>
+        <item>Relevant News</item>
+        <item>Recommended Wallpaper</item>
+        <item>Relevant Music</item>
+        <item>None</item>
+        <item>None</item>
+        <item>None</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="brand">
+        <item>None</item>
+        <item>Brand News</item>
+        <item>Recommended Wallpaper</item>
+        <item>Brand Music</item>
+        <item>None</item>
+        <item>None</item>
+        <item>None</item>
+        <item>Related Website</item>
+    </string-array>
+    <string-array name="region">
+        <item>None</item>
+        <item>Relevant Video</item>
+        <item>Recommended Wallpaper</item>
+        <item>None</item>
+        <item>None</item>
+        <item>None</item>
+        <item>None</item>
+        <item>None</item>
+    </string-array>
+    <array name="theme_defult_background_array">
+        <item>@drawable/theme_defult_background0</item>
+        <item>@drawable/theme_defult_background1</item>
+        <item>@drawable/theme_defult_background2</item>
+    </array>
+    <string-array name="screen_entries">
+        <item>@string/lockscreen</item>
+        <item>@string/homescreen</item>
+    </string-array>
+    <string-array name="schedule_interval_values">
+        <item>-1</item>
+        <item>24</item>
+        <item>12</item>
+        <item>6</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="schedule_interval_entries">
+        <item>@string/schedule_close</item>
+        <item>@string/schedule_twenty_four_hours</item>
+        <item>@string/schedule_twelve_hours</item>
+        <item>@string/schedule_six_hours</item>
+        <item>@string/schedule_three_hours</item>
+    </string-array>
+    <string-array name="wallpaper_source_values">
+        <item>fav</item>
+        <item>tag</item>
+        <item>recommend</item>
+    </string-array>
+    <string-array name="wallpaper_source_entries">
+        <item>@string/source_collected</item>
+        <item>@string/source_followed</item>
+        <item>@string/source_recommended</item>
+    </string-array>
+    <string-array name="wallpaper_source_default_values">
+        <item>fav</item>
+        <item>tag</item>
+        <item>recommend</item>
+    </string-array>
+    <string-array name="schedule_screen_values">
+        <item>lockscreen</item>
+        <item>homescreen</item>
+    </string-array>
+    <string-array name="schedule_screen_default_value">
+        <item>lockscreen</item>
+    </string-array>
+    <string-array name="shake_screen_values">
+        <item>lockscreen</item>
+        <item>homescreen</item>
+    </string-array>
+</resources>

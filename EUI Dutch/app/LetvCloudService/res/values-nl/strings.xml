@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LeCloud</string>
+    <string name="disable_http_compression">HTTP compressie uitschakelen</string>
+    <string name="http_compression_disabled">HTTP compressie is uitgeschakeld (debug modus)</string>
+    <string name="http_compression_enabled">HTTP compressie wordt gebruik wanneer mogelijk</string>
+    <string name="network_logging">Netwerk verkeer loggen</string>
+    <string name="network_logging_enabled">Alle netwerk verkeer wordt uitgebreid gelogd (debug modus)</string>
+    <string name="network_logging_disabled">Netwerk verkeer wordt niet gelogd</string>
+    <string name="too_much_sync_data" formatted="false">De data die gesynchroniseerd worden is meer dan %d , Verwijder enkele van de %s om ddor te gaan, anders kan synchronisatie niet voltooid worden.</string>
+    <string name="lack_of_internet_connectivity">No network or unstable network</string>
+    <string name="type_contact">Contacten of groepen</string>
+    <string name="type_note">Notities of notitie clips</string>
+    <string name="type_browser">Bladwijzers of geschiedenis</string>
+    <string name="type_calendar">Afspraken</string>
+    <string name="type_calllog">Belgeschiedenis</string>
+    <string name="type_music">Muziek</string>
+    <string name="type_leextnumlist">Zwarte lijst</string>
+    <string name="type_mmssmssync">Berichten</string>
+    <string name="add_new_resource_notification">Nieuwe items om te synchroniseren toegevoegs, klik om in te stellen</string>
+    <string name="system_time_error">Systeemtijd fout, synchronisatie mislukt</string>
+    <string name="fix_system_time">Systeemtijd aanpassen</string>
+    <string name="ignore">Negeren</string>
+</resources>

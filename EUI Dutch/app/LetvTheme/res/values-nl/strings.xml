@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">leui Thema</string>
+    <string name="hello_world">Hallo iedereen!</string>
+    <string name="action_settings">Instelleingen</string>
+    <string name="upgrade_msg">Thema database updaten</string>
+</resources>

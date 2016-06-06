@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BugPostbox</string>
+    <string name="readme">Log indienen (tik op om gedetailleerde instructies te bekijken)</string>
+    <string name="msg_complete">Log ingediend</string>
+    <string name="hello_world">"Weergave van dit scherm betekent dat u gebruik maakt van een beta versie en de volgende problemen zich hebben voorgedaan:
+ \u00091. U gebruikte “Bugrapport” om problemen in te dienen
+ \u00092. Sommige apps of kernels zijn gecrasht op uw telefoon
+
+ Zorg ervoor dat u bent verbonden met een Wi-Fi netwerk bij het indienen van deze problemen. Onze toegewijde specialisten zullen uw ingediende logs verzamelen.
+
+
+
+ Deze app is een sub-module van Bugrapport en op dit moment ontwikkeld door de BSP team. Het uiteindelijke uiterlijk van Bugrapport zal worden beslist door de UI-team.
+
+
+
+ Bekende problemen: Een logische fout in deze app kan optreden bij voortdurend indienen van kwesties door gebruikers.
+
+ De gecomprimeerde logs zijn te vinden op http://tj.letv.cn.
+
+ Logs kunnen alleen geupload worden via Wi-Fi. Als Wi-Fi is uitgeschakeld, worden er geen logs geüpload."</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="msg_packaging">Gerelateerde logbestanden comprimeren</string>
+    <string name="msg_uploading">Uploaden</string>
+    <string name="msg_upload_fail">Upload mislukt. Probeer later opnieuw.</string>
+    <string name="msg_upload_fatal_fail">Kan log niet lezen. Upload mislukt.</string>
+    <string name="current_status">Huidige status</string>
+    <string name="resend">Opnieuw verzenden</string>
+    <string name="logfile_msg">Uw log bestand is te groot en dus lokaal opgeslaan voor een geldige periode van 3 dagen. Neem zo snel mogelijk contact op met de klantenservice.</string>
+    <string name="log_open_msg">Offline log draait nu, uitschakelen als je het niet nodig hebt.</string>
+    <string name="log_open_title">Offline log draait nu</string>
+    <string name="log_clear_zip_msg">Archiveringslogs nu wissen, functies zijn geschorst</string>
+    <string name="log_clear_zip_msg_over">Archiveringslogs gewist</string>
+    <string name="log_clear_zip_title">Archiveringslogs worden gewist</string>
+    <string name="log_clear_msg">Off-line logs worden nu gewist</string>
+    <string name="log_clear_msg_over">Off-line logs wissen is beïndigd</string>
+    <string name="log_clear_title">Off-line logs wissen</string>
+    <string name="log_zip_msg">Off-line logs nu comprimeren</string>
+    <string name="log_zip_msg_over">Off-line logs comprimeren is beïndigd</string>
+    <string name="log_zip_title">Off-line logs comprimeren</string>
+    <string name="log_change_title">Off-line logs status nu opslaan</string>
+    <string name="log_change_msg">Off-line logs status opslaan, een momentje</string>
+    <string name="log_change_msg_over">Off-line logs status herzien</string>
+</resources>

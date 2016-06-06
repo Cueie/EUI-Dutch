@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="star">
+        <item>Films en Tv shows</item>
+        <item>Entertainment nieuws</item>
+        <item>Achtergronden</item>
+        <item>Hitsingles</item>
+        <item>Muziek albums</item>
+        <item>Verwante artiesten</item>
+        <item>Verwante tweets</item>
+        <item>Verwante websites</item>
+    </string-array>
+    <string-array name="player">
+        <item>Films en Tv shows</item>
+        <item>Sport nieuws</item>
+        <item>Achtergronden</item>
+        <item>Geen</item>
+        <item>Muziek albums</item>
+        <item>Geen</item>
+        <item>Verwante tweets</item>
+        <item>Verwante websites</item>
+    </string-array>
+    <string-array name="movie">
+        <item>Films en Tv shows</item>
+        <item>Entertainment nieuws</item>
+        <item>Achtergronden</item>
+        <item>Soundtracks</item>
+        <item>Geen</item>
+        <item>Verwante artiesten</item>
+        <item>Geen</item>
+        <item>Geen</item>
+    </string-array>
+    <string-array name="team">
+        <item>Films en Tv shows</item>
+        <item>Verwant nieuws</item>
+        <item>Achtergronden</item>
+        <item>Verwante muziek</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Geen</item>
+    </string-array>
+    <string-array name="brand">
+        <item>Geen</item>
+        <item>Merk nieuws</item>
+        <item>Achtergronden</item>
+        <item>Label muziek</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Verwante tweets</item>
+        <item>Verwante websites</item>
+    </string-array>
+    <string-array name="region">
+        <item>Geen</item>
+        <item>Verwante video\'s</item>
+        <item>Achtergronden</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Verwante tweets</item>
+        <item>Geen</item>
+    </string-array>
+    <string-array name="concent_list">
+        <item>Populaire literatuur</item>
+        <item>Nieuwste informatie</item>
+        <item>Top muziek</item>
+        <item>Aanbevolen achtergrond</item>
+        <item>Recente dynamic</item>
+        <item>Weibo onlangs</item>
+        <item>Media informatie</item>
+    </string-array>
+    <string-array name="concern_content_list">
+        <item>Maak een desktop icoon aan</item>
+        <item>Annuleren</item>
+    </string-array>
+    <string-array name="price_list">
+        <item>Grondstof Prijs</item>
+        <item>Arrangementen</item>
+        <item>Betaalbare bestellingen</item>
+    </string-array>
+    <string-array name="mode_list">
+        <item>Alipay client pay</item>
+        <item>weixin pay</item>
+    </string-array>
+    <string-array name="auth_apps">
+        <item>com.letv.android.client</item>
+        <item>com.android.calendar</item>
+        <item>com.letv.android.wallpaperonline</item>
+        <item>com.android.music</item>
+        <item>com.letv.app.appstore</item>
+        <item>com.letv.letvshop</item>
+        <item>com.letv.android.sports</item>
+        <item>com.android.launcher3</item>
+        <item>com.android.gallery3d</item>
+        <item>com.android.dialer</item>
+        <item>com.letv.android.note</item>
+        <item>com.android.browser</item>
+        <item>com.letv.superlepai</item>
+    </string-array>
+    <string-array name="expire_time">
+        <item>Voor altijd</item>
+        <item>Voor altijd</item>
+        <item>Voor altijd</item>
+        <item>Voor altijd</item>
+        <item>Voor altijd</item>
+        <item>Voor altijd</item>
+        <item>Voor altijd</item>
+        <item>Voor altijd</item>
+        <item>Voor altijd</item>
+        <item>Voor altijd</item>
+        <item>Voor altijd</item>
+        <item>Voor altijd</item>
+        <item>Voor altijd</item>
+    </string-array>
+</resources>

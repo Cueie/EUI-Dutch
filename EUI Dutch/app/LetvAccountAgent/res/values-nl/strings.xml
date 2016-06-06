@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="letv_iptv_service_addr">sso.letv.com/oauthapp</string>
+    <string name="letv_iptv_recharge_service_addr">api.itv.letv.com</string>
+    <string name="app_name">Letv account aanmelding</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="popauth">De app zal de volgende toegang krijgen na aanmelden</string>
+    <string name="protocol">Toegang tot uw openbare informatie (Bijnaam, icoon, enz)</string>
+    <string name="ifneed_auth">Toestemming nodig?</string>
+    <string name="get_auth_info">Toegang tot bindende informatie</string>
+    <string name="auto_auth">Auto toestemming</string>
+    <string name="auth">Toestemming bevestigen</string>
+    <string name="toast_network_disconnected">Verbinding mislukt, controleer uw netwerk</string>
+    <string name="auth_fail">Toestemming mislukt</string>
+    <string name="token_error_relogin">Toestemming mislukt. Meld u terug op uw Letv account aan.</string>
+</resources>

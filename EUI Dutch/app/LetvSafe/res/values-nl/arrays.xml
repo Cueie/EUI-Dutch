@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operation_arrays">
+        <item>Toegestaan</item>
+        <item>Geweigerd</item>
+        <item>Altijd vragen</item>
+    </string-array>
+    <string-array name="operation_two_arrays">
+        <item>Toegestaan</item>
+        <item>Geweigerd</item>
+    </string-array>
+    <string-array name="permission_log_title">
+        <item>Ruwe locatie verkrijgen</item>
+        <item>Precieze locatie verkrijgen</item>
+        <item>GPS gebruiken</item>
+        <item>Trillen</item>
+        <item>Contacten lezen</item>
+        <item>In contacten schrijven</item>
+        <item>Belgeschiedenis lezen</item>
+        <item>In belgeschiedenis schrijven</item>
+        <item>Agenda lezen</item>
+        <item>In agenda schrijven</item>
+        <item>Scannen op Wi-Fi</item>
+        <item>Meldingen verzenden</item>
+        <item>Basisstation locatie gebruiken</item>
+        <item>Gesprekken maken</item>
+        <item>Berichtgeschiedenis lezen</item>
+        <item>Berichtgeschiedenis schrijven</item>
+        <item>Berichten ontvangen</item>
+        <item>Noodberichten ontvangen</item>
+        <item>MMS ontvangen</item>
+        <item>Push MMS ontvangen</item>
+        <item>Berichten verzenden</item>
+        <item>ICC berichten lezen</item>
+        <item>In ICC berichten schrijven</item>
+        <item>Systeeminstellingen schrijven</item>
+        <item>Alarm venster</item>
+        <item>Meldingsgeschiedenis lezen</item>
+        <item>Camera</item>
+        <item>Opnemen</item>
+        <item>Audio afspelen</item>
+        <item>Klembord lezen</item>
+        <item>In klembord schrijven</item>
+        <item>Multimedia knop gebruiken</item>
+        <item>Audio focus</item>
+        <item>Media volume</item>
+        <item>Media volume</item>
+        <item>Media volume</item>
+        <item>Media volume</item>
+        <item>Media volume</item>
+        <item>Meldingsbalk volume</item>
+        <item>Bluetooth volume</item>
+        <item>Aan laten</item>
+        <item>Locatie controleren</item>
+        <item>Hoog batterij gebruik controleren</item>
+        <item>Wi-Fi in-/uitschakelen</item>
+        <item>Bluetooth in-/uitschakelen</item>
+        <item>Data verbinding in-/uitschakelen</item>
+        <item>Tijd ingeschakeld</item>
+        <item>Berichten verzenden</item>
+        <item>Berichten lezen</item>
+        <item>In berichten schrijven</item>
+        <item>Automatisch starten</item>
+        <item>NFC in-/uitschakelen</item>
+        <item>Meldingsbalk volume</item>
+        <item>Telefoon info lezen</item>
+        <item>Meldingsbalk voorrang</item>
+        <item>Geen toestemming</item>
+    </string-array>
+</resources>

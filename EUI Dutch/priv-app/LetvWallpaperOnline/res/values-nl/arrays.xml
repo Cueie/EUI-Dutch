@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="star">
+        <item>Films en TV schows</item>
+        <item>Entertainment nieuws</item>
+        <item>Achtergronden</item>
+        <item>Top singles</item>
+        <item>Muziek albums</item>
+        <item>Verwante artiesten</item>
+        <item>Verwante tweets</item>
+        <item>Verwante websites</item>
+    </string-array>
+    <string-array name="player">
+        <item>Films en TV schows</item>
+        <item>Sport nieuws</item>
+        <item>Achtergronden</item>
+        <item>Geen</item>
+        <item>Muziek albums</item>
+        <item>Geen</item>
+        <item>Verwante tweets</item>
+        <item>Verwante websites</item>
+    </string-array>
+    <string-array name="movie">
+        <item>Films en TV schows</item>
+        <item>Entertainment nieuws</item>
+        <item>Achtergronden</item>
+        <item>Soundtracks</item>
+        <item>Geen</item>
+        <item>Verwante artiesten</item>
+        <item>Geen</item>
+        <item>Geen</item>
+    </string-array>
+    <string-array name="team">
+        <item>Films en TV schows</item>
+        <item>Relevant nieuws</item>
+        <item>Achtergronden</item>
+        <item>Verwante muziek</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Geen</item>
+    </string-array>
+    <string-array name="brand">
+        <item>Geen</item>
+        <item>Merk nieuws</item>
+        <item>Achtergronden</item>
+        <item>Label muziek</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Verwante tweets</item>
+        <item>Verwante websites</item>
+    </string-array>
+    <string-array name="region">
+       <item>Geen</item>
+        <item>Verwante video\'s</item>
+        <item>Achtergronden</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Verwante tweets</item>
+        <item>Geen</item>
+    </string-array>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="service_city">
+        <item>Shanghai</item>
+        <item>Dongguan</item>
+        <item>Linfen</item>
+        <item>Linyi</item>
+        <item>Urumqi</item>
+        <item>Foshan</item>
+        <item>Lanzhou</item>
+        <item>Baotou</item>
+        <item>Peking</item>
+        <item>Nanjing</item>
+        <item>Nanning</item>
+        <item>Nanchang</item>
+        <item>Xiamen</item>
+        <item>Hefei</item>
+        <item>Hohhot</item>
+        <item>Harbin</item>
+        <item>Tangshan</item>
+        <item>Dalian</item>
+        <item>Tianjin</item>
+        <item>Taiyuan</item>
+        <item>Guangzhou</item>
+        <item>Xuzhou</item>
+        <item>Huizhou</item>
+        <item>Chengdu</item>
+        <item>Wuxi</item>
+        <item>Hangzhou</item>
+        <item>Wuhan</item>
+        <item>Shenyang</item>
+        <item>Luoyang</item>
+        <item>Ji’nan</item>
+        <item>Haikou</item>
+        <item>Zibo</item>
+        <item>Shenzhen</item>
+        <item>Suzhou</item>
+        <item>Heze</item>
+        <item>Xi’ning</item>
+        <item>Xi’an</item>
+        <item>Guiyang</item>
+        <item>Zhengzhou</item>
+        <item>Chongqing</item>
+        <item>Yinchuan</item>
+        <item>Zhenjiang</item>
+        <item>Changchun</item>
+        <item>Changsha</item>
+        <item>Qingdao</item>
+        <item>Datong</item>
+        <item>Fuzhou</item>
+        <item>Jincheng</item>
+        <item>Kunming</item>
+        <item>Kunshan</item>
+        <item>Ningbo</item>
+        <item>Shijiazhuang</item>
+        <item>Wenzhou</item>
+    </string-array>
+    <string-array name="more_action_list">
+        <item>Neem contact met ons op</item>
+        <item>Log niet verzonden</item>
+    </string-array>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Download Manager</string>
+    <string name="permlab_downloadManager">Ga naar Download Manager</string>
+    <string name="permdesc_downloadManager">Deze app toelaten om de Download Manager te gebruiken en bestanden te downloaden. Schadelijke apps kunnen dit gebruiken om het downloaden te onderbreken en toegang te krijgen tot privé informatie.</string>
+    <string name="permlab_downloadManagerAdvanced">Download Manager geavenceerde funtcies</string>
+    <string name="permdesc_downloadManagerAdvanced">Deze app toelaten om de geavanceerde functies van de Download Manager te gebruiken. Schadelijke apps kunnen dit gebruiken om het downloaden te onderbreken en toegang te krijgen tot privé informatie.</string>
+    <string name="permlab_downloadCompletedIntent">Download meldingen verzenden</string>
+    <string name="permdesc_downloadCompletedIntent">Deze app toelaten om meldingen te sturen wanneer het downloaden is voltooid. Schadelijke apps kunnen dit gebruiken om zich te vermommen als andere apps die bestanden downloaden.</string>
+    <string name="permlab_seeAllExternal">Alle downloads bekijken die worden opgeslagen op een USB opslagapparaat</string>
+    <string name="permdesc_seeAllExternal">Deze app toelaten om alle inhoud gedownload naar de SD kaart (ongeacht de app gebruikt om te downloaden) te bekijken.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Ruimte vrijhouden in download cache</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Deze app toelaten om de bestanden te downloaden naar de download cache (het systeem zal niet automatisch de inhoud van de download cache verwijderen omdat er meer ruimte nodig is voor de Download Manager). "</string>
+    <string name="permlab_downloadWithoutNotification">Bestanden rechtstreeks downloaden en geen meldingen weergeven</string>
+    <string name="permdesc_downloadWithoutNotification">Deze app toelaten om bestanden via de Download Manager te downloaden zonder einige melding weer te geven aan de gebruiker.</string>
+    <string name="permlab_accessAllDownloads">Toegang tot alle systeem downloads</string>
+    <string name="permdesc_accessAllDownloads">Deze app toelaten om alle gedownloade inhoud te bekijken en door een app op uw systeem te wijzigen.</string>
+    <string name="download_unknown_title">(Naamloos)</string>
+    <string name="notification_download_complete">Download voltooid</string>
+    <string name="notification_download_failed">Download mislukt</string>
+    <string name="notification_need_wifi_for_size">Het bestand is te groot. U moet het downloaden over een Wi-Fi netwerk.</string>
+    <string name="notification_paused_in_background">Gepauzeerd in de achtergrond</string>
+    <string name="wifi_required_title">Het bestand is te groot en niet geschikt om te downloaden via een mobiel netwerk.</string>
+    <string name="wifi_required_body" formatted="false">"U moet verbonden zijn met een Wi-Fi netwerk om dit bestand te downloaden (%s).
+
+Tik om %s de volgende keer downloaden wanneer u verbinding maakt met een W-iFi netwerk."</string>
+    <string name="wifi_recommended_title">Later toevoegen aan wachtrij?</string>
+    <string name="wifi_recommended_body" formatted="false">"Dit bestand (%s) nu downloaden kan de batterij verbruiken en/of te veel mobiele data innemen( die uw provider aanrekend, afhankelijk van uw data abonnement kan het oplopen).
+
+Tik om %s de volgende keer downloaden wanneer u verbinding maakt met een W-iFi netwerk."</string>
+    <string name="button_queue_for_wifi">In wachtrij</string>
+    <string name="button_cancel_download">Annuleren</string>
+    <string name="button_start_now">Starten</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">Resterende tijd: %s</string>
+    <string name="download_no_application_title">Kan bestand niet openen</string>
+    <string name="root_downloads">Downloaden</string>
+    <string name="download_queued">Toegevoegd aan wachtrij</string>
+    <string name="download_running">Downloaden</string>
+    <string name="download_error">Mislukt</string>
+    <string name="download_running_percent">Downloaden: %d%%</string>
+    <string name="download_notification_pause">Pause</string>
+    <string name="download_file_save_toast">Bestand opgeslaan: %1$s</string>
+    <string name="download_pause_notification_tip">%1$s - download paused</string>
+    <string name="download_storage_insufficient_dialog_content">Bestand kan niet gedownload worden. Maak ruimte vrij en probeer opnieuw.</string>
+    <string name="download_storage_insufficient_dialog_negative_button">Annuleren</string>
+    <string name="download_storage_insufficient_dialog_positive_button">Wissen</string>
+    <string name="le_notification_download_complete_cmcc">Bestand downloadeden naar:</string>
+    <string name="le_download_confirm_dialog_positive">Downloaden</string>
+    <string name="le_download_confirm_dialog_negative">Annuleren</string>
+    <string name="le_download_confirm_dialog_filename">Bestandsnaam: %1$s</string>
+    <string name="le_download_confirm_dialog_filesize">Bestandsgrootte: %1$s</string>
+    <string name="le_download_confirm_dialog_savepath">Download directory: %1$s</string>
+    <string name="le_download_confirm_dialog_unknow_size">Onbekend</string>
+</resources>

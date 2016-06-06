@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Android Live achtergronden</string>
+    <string name="wallpaper_walkaround">Bladeren</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">Bladeren op uw telefoon en rondlopen zonder het risico van ongevallen.</string>
+    <string name="wallpaper_clock">Polar klok</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">Stelt de datum en tijd als klokbogen voor: maand, dag, uren, minuten en seconden.</string>
+    <string name="clock_settings">Polar klok instellen</string>
+    <string name="show_seconds">Seconden weergeven</string>
+    <string name="variable_line_width">Verschillende breedtes</string>
+    <string name="palette">Kleuren palet</string>
+    <string name="palette_gray">Grijs</string>
+    <string name="palette_violet">Violet</string>
+    <string name="palette_matrix">Groen scherm</string>
+    <string name="palette_white_c">Ijsbeer (dynamic)</string>
+    <string name="palette_black_c">Black Hole (dynamic)</string>
+    <string name="palette_halloween">Halloween</string>
+    <string name="palette_zenburn">Alien Fruit Salade</string>
+    <string name="palette_oceanic">Blauwe Laser</string>
+    <string name="wallpaper_grass">Gras</string>
+    <string name="wallpaper_grass_author">Google</string>
+    <string name="wallpaper_grass_desc">Grassprietjes wuiven zachtjes in de voorkant van een dag of nacht hemel.</string>
+    <string name="wallpaper_galaxy">Sterrenstelsel</string>
+    <string name="wallpaper_galaxy_author">Google</string>
+    <string name="wallpaper_galaxy_desc">Een sterrenstelsel gemaakt van langzaam wervelende sterren.</string>
+    <string name="wallpaper_fall">Water</string>
+    <string name="wallpaper_fall_author">Google</string>
+    <string name="wallpaper_fall_desc">De herfstbladeren vallen&lt;br> in het kabbelende vijver er onder:&lt;br> Vloeibare achtergrond Zen</string>
+    <string name="wallpaper_nexus">Nexus</string>
+    <string name="wallpaper_nexus_author">Google</string>
+    <string name="wallpaper_nexus_desc">Een kijkje in het neurale netwerk.</string>
+</resources>

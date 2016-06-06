@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>Geen</item>
+        <item>Kleine kamer</item>
+        <item>Medium kamer</item>
+        <item>Grootte kamer</item>
+        <item>Medium Hal</item>
+        <item>Groote Hal</item>
+        <item>Plate Reverb</item>
+    </string-array>
+</resources>

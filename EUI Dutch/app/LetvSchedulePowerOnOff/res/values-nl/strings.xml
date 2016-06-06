@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="schpwr_hour_label">Uur</string>
+    <string name="schpwr_minute_label">Minuut</string>
+    <string name="schedule_power_on_category">Opstarten met wekker</string>
+    <string name="schedule_power_off_category">Automatisch uitschakelen</string>
+    <string name="boot_video">Aangepaste opstart video</string>
+    <string name="boot_video_summary">Video afspelen bij opstarten toestaan</string>
+    <string name="power_on_category">Opstarten</string>
+    <string name="power_off_category">Uitschakelen</string>
+    <string name="leui_fire_schedule_switch">Opstarten en uitschakelen plannen</string>
+    <string name="leui_schedule_set_category">Tijdinstelling</string>
+    <string name="leui_schedule_power_on">Opstarttijd</string>
+    <string name="leui_schedule_power_off">Uitschakeltijd</string>
+    <string name="schedule_power_on_off_settings_title">Opstart en uitschakel instellingen</string>
+    <string name="schedule_power_on_off_time">Tijd</string>
+    <string name="schedule_power_on_off_repeat">Herhalen</string>
+    <string name="schedule_power_on_off_set">Opstart en uitschakel planning instellen</string>
+    <string name="schedule_power_on_set">Opstarten met wekker</string>
+    <string name="schedule_power_off_set">Automatisch uitschakelen</string>
+    <string name="enable_schpwr">Inschakelen</string>
+    <string name="disable_schpwr">Niet weergeven</string>
+    <string name="day">1 dag</string>
+    <string name="days">%s dagen</string>
+    <string name="hour">1 uur</string>
+    <string name="hours">%s uur</string>
+    <string name="minute">1 minuut</string>
+    <string name="minutes">%s minuten</string>
+    <string name="every_day">Dagelijks</string>
+    <string name="never">Nooit</string>
+    <string name="day_concat">", "</string>
+    <string name="done">Voltooid</string>
+    <string name="revert">Herstellen</string>
+    <string name="schpwr_shutdown_message">Uw apparaat zal binnen %s seconden uitschakelen</string>
+    <string name="schpwr_shutdown_message_second">Uw apparaat zal binnen %s seconden uitschakelen</string>
+	<string name="leui_error_short_interval">Interval tussen de geplande opstart en uitschakeling moet langer dan 5 minuten zijn</string>
+</resources>

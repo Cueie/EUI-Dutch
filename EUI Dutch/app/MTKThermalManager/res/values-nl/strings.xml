@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MTK Thermische Manager</string>
+    <string name="coolers">Coolers</string>
+    <string name="thermal_sensors">Thermische sensors</string>
+    <string name="thermal_protection">Thermische bescherming</string>
+    <string name="thermal_policy_file_colon">"Thermische beleidsbestand: "</string>
+    <string name="apply_new_thermal_policy">Nieuw thermisch beleid toepassen</string>
+    <string name="tz_device_info">TZ apparaat info</string>
+    <string name="thermal_logger">Thermische Logger</string>
+    <string name="alert_dialog_two_buttons_title">Thermische Waarschuwing!</string>
+    <string name="alert_dialog_two_buttons_message">Telefoon moet afkoelen!</string>
+    <string name="alert_dialog_ok">Ok</string>
+    <string name="alert_dialog_cancel">Annuleren</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kompas</string>
+    <string name="defalut_orientation">Orientatie</string>
+    <string name="defalut_orientation_degree">90</string>
+    <string name="format_coordinate" formatted="false">"%s %d° %d' %d\" %3s %d° %d' %d\""</string>
+    <string name="cancel">Annuleren</string>
+    <string name="calibrate">calibreren</string>
+    <string name="defalut_orientation_degree_symbol">o</string>
+    <string name="orientation_0">0</string>
+    <string name="orientation_90">90</string>
+    <string name="orientation_180">180</string>
+    <string name="orientation_270">270</string>
+    <string name="calibrate_message">Kantel de telefoon om de rode bal beweging rond de cirkel te maken</string>
+    <string name="open_netorgps_get_position">Schakel de netwerkverbinding in om de coördinaten en locatie info te verkrijgen</string>
+    <string name="open_net_get_address">Schakel de netwerkverbinding in locatie te verkrijgen</string>
+    <string name="low_accuracy_hint">Lage data nauwkeurigheid voorkom storingen en opnieuw kalibreren</string>
+    <string name="follow_refer_complete_calibrate">"Vermijd magnetische storingen 
+ en verwijzen naar instructies om kompas kalibratie te voltooien"</string>
+    <string name="open_gps_get_accurate">Schakel GPS in om nauwkeurige coördinaten te verkrijgen</string>
+    <string name="acquiring_location">Locatie verkrijgen</string>
+    <string name="power_assistant_hint">Kan locatie niet verkrijgen, Probeer het opnieuw na het sluiten van de energiebesparende assistent</string>
+</resources>

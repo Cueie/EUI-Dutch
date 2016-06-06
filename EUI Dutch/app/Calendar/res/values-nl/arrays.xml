@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="star">
+        <item>Film en TV series</item>
+        <item>Entertainment nieuws</item>
+        <item>Aanbevolen achtergrond</item>
+        <item>Populaire muziek</item>
+        <item>Muziek album</item>
+        <item>Verwante artiest</item>
+        <item>Desbetreffend Weibo</item>
+        <item>Desbetreffend Website</item>
+    </string-array>
+    <string-array name="player">
+        <item>Film en TV series</item>
+        <item>Sports nieuws</item>
+        <item>Aanbevolen achtergrond</item>
+        <item>Geen</item>
+        <item>Muziek album</item>
+        <item>Geen</item>
+        <item>Desbetreffend Weibo</item>
+        <item>Desbetreffend Website</item>
+    </string-array>
+    <string-array name="movie">
+        <item>Film en TV series</item>
+        <item>Entertainment nieuws</item>
+        <item>Aanbevolen achtergrond</item>
+        <item>Originele muziek</item>
+        <item>Geen</item>
+        <item>Verwante artiest</item>
+        <item>Geen</item>
+        <item>Geen</item>
+    </string-array>
+    <string-array name="team">
+        <item>Film en TV series</item>
+        <item>Relevant News</item>
+        <item>Aanbevolen achtergrond</item>
+        <item>Verwante muziek</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Geen</item>
+    </string-array>
+    <string-array name="brand">
+        <item>Geen</item>
+        <item>Merk nieuws</item>
+        <item>Aanbevolen achtergrond</item>
+        <item>Merk muziek</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Verwante website</item>
+    </string-array>
+    <string-array name="region">
+        <item>Geen</item>
+        <item>Verwante video</item>
+        <item>Aanbevolen achtergrond</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Geen</item>
+    </string-array>
+    <string-array name="reminder_methods_labels">
+        <item>Melding</item>
+        <item>E-mail</item>
+        <item>SMS</item>
+        <item>Alarm</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>nooit</item>
+        <item>wanneer de afspraak plaatsvindt</item>
+        <item>5 minuten ervoor</item>
+        <item>10 minuten ervoor</item>
+        <item>30 minuten ervoor</item>
+        <item>1 uur ervoor</item>
+        <item>2 uur ervoor</item>
+        <item>1 dag ervoor</item>
+        <item>2 dagen ervoor</item>
+        <item>1 week ervoor</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels_all_day">
+        <item>nooit</item>
+        <item>de dag zelf (9:00)</item>
+        <item>1 dag ervoor (9:00)</item>
+        <item>2 dagen ervoor (9:00)</item>
+        <item>1 week ervoor (9:00)</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>nooit</item>
+        <item>wanneer de afspraak plaatsvindt</item>
+        <item>5 minuten ervoor</item>
+        <item>10 minuten ervoor</item>
+        <item>30 minuten ervoor</item>
+        <item>1 uur ervoor</item>
+        <item>2 uur ervoor</item>
+        <item>1 dag ervoor</item>
+        <item>2 dagen ervoor</item>
+        <item>1 week ervoor</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Lokale standaard</item>
+        <item>Zaterdag</item>
+        <item>Zondag</item>
+        <item>Maandag</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Bezig</item>
+        <item>Beschikbaar</item>
+        <item>Voorlopig</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Standaard</item>
+        <item>Privé</item>
+        <item>Publiek</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>eerst</item>
+        <item>tweede</item>
+        <item>derde</item>
+        <item>vierde</item>
+        <item>laatste</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Geen antwoord</item>
+        <item>Ja</item>
+        <item>Misschien</item>
+        <item>Nee</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Deze afspraak verwijderen</item>
+        <item>Deze afspraak en toekomstige afspraken verwijderen</item>
+        <item>Alle afspraken verwijderen</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Deze en afspraken in de toekomst</item>
+        <item>Alle afspraken</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Alleen deze afspraak</item>
+        <item>Alle afspraken in de series</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Dag</item>
+        <item>Week</item>
+        <item>Maand</item>
+        <item>Agenda</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Enkel indien afgewezen</item>
+        <item>Als afgewezen of niet gereageerd</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>DAGELIJKS HERHALEN</item>
+        <item>WEEKELIJKS HERHALEN</item>
+        <item>MAANDELIJKS HERHALEN</item>
+        <item>JAARLIJKS HERHALEN</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>Op elke eerste zondag</item>
+        <item>Op elke tweede zondag</item>
+        <item>Op elke derde zondag</item>
+        <item>Op elke vierde zondag</item>
+        <item>Op elke laatste zondag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>Op elke eerste maandag</item>
+        <item>Op elke tweede maandag</item>
+        <item>Op elke derde maandag</item>
+        <item>Op elke vierde maandag</item>
+        <item>Op elke laatste maandag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>Op elke eerste dinsdag</item>
+        <item>Op elke tweede dinsdag</item>
+        <item>Op elke derde dinsdag</item>
+        <item>Op elke vierde dinsdag</item>
+        <item>Op elke laatste dinsdag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>Op elke eerste woensdag</item>
+        <item>Op elke tweede woensdag</item>
+        <item>Op elke derde woensdag</item>
+        <item>Op elke vierde woensdag</item>
+        <item>Op elke laatste woensdag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>Op elke eerste donderdag</item>
+        <item>Op elke tweede donderdag</item>
+        <item>Op elke derde donderdag</item>
+        <item>Op elke vierde donderdag</item>
+        <item>Op elke laatste donderdag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>Op elke eerste vrijdag</item>
+        <item>Op elke tweede vrijdag</item>
+        <item>Op elke derde vrijdag</item>
+        <item>Op elke vierde vrijdag</item>
+        <item>Op elke laatste vrijdag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>Op elke eerste zaterdag</item>
+        <item>Op elke tweede zaterdag</item>
+        <item>Op elke derde zaterdag</item>
+        <item>Op elke vierde zaterdag</item>
+        <item>Op elke laatste zaterdag</item>
+    </string-array>
+    <string-array name="day_of_weekly">
+        <item>Elke zondag</item>
+        <item>Elke maandag</item>
+        <item>Elke dinsdag</item>
+        <item>Elke woensdag</item>
+        <item>Elke donderdag</item>
+        <item>Elke vrijdag</item>
+        <item>Elke zaterdag</item>
+    </string-array>
+    <string-array name="rrule_type">
+        <item>Eénmalige afspraak</item>
+        <item>Elke dag</item>
+        <item>Werkdagen (Maandag-Vrijdag)</item>
+        <item></item>
+        <item>Elke maand</item>
+        <item>Elke maand</item>
+        <item>Elk jaar</item>
+    </string-array>
+    <string-array name="lunar_rrule_type">
+        <item>Eénmalige afspraak</item>
+        <item>Elke maanmaand</item>
+        <item>Elk maanjaar</item>
+    </string-array>
+    <string-array name="dropdown_list">
+        <item>Alle schema\'s</item>
+        <item>Mijn schema\'s</item>
+        <item>Uitnodigingen</item>
+    </string-array>
+    <string-array name="recently_tab_names">
+        <item>Dynamisch terug kijken</item>
+        <item>Dynamisch vooruit kijken</item>
+    </string-array>
+    <string-array name="event_types">
+        <item>Onbekend</item>
+        <item>Sporten</item>
+        <item>Reizen</item>
+        <item>Vaarjaardag</item>
+        <item>Kunst</item>
+        <item>TV show</item>
+        <item>Tekenfilm</item>
+        <item>Film</item>
+        <item>Entertainment producties</item>
+        <item>LeTV film</item>
+        <item>Concert</item>
+    </string-array>
+    <string-array name="game_states">
+        <item>Niet bezig</item>
+        <item>Bezig</item>
+        <item>Voltooid</item>
+    </string-array>
+    <string-array name="chineseten">
+        <item>Eerst</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="lunar_festival">
+        <item>Layue 29 Chinees Nieuwjaarsavond</item>
+        <item>Layue 30 Chinees Nieuwjaarsavond</item>
+        <item>Zhengyue 1 Z Hang op 1 lentefestival</item>
+        <item>2/2 Longtaitou festival</item>
+        <item>Zhengyue 15 lantaarn festival</item>
+        <item>5/5 Draken Bootfestival</item>
+        <item>7/7 Qixi festival</item>
+        <item>7/15 geestenfeest</item>
+        <item>8/15 Midden herfstfestival</item>
+        <item>9/9 Dubbele Negen festival</item>
+        <item>Layue 8 Laba festival</item>
+        <item>Layue 23 Voorafgaande avond</item>
+    </string-array>
+    <string-array name="animals">
+        <item>Rat</item>
+        <item>Os</item>
+        <item>Tijger</item>
+        <item>Konijn</item>
+        <item>Draak</item>
+        <item>Slang</item>
+        <item>Paard</item>
+        <item>Geit</item>
+        <item>Aap</item>
+        <item>Haan</item>
+        <item>Hond</item>
+        <item>Zwijn</item>
+    </string-array>
+    <string-array name="chinesenumber">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Mei</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="lunar_month_name">
+        <item>Zhengyue</item>
+        <item>Februarie</item>
+        <item>Maart</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Jun</item>
+        <item>Juli</item>
+        <item>Augustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>Dongyue</item>
+        <item>Layue</item>
+    </string-array>
+    <string-array name="zhi">
+        <item>Zi</item>
+        <item>Chou</item>
+        <item>Yin</item>
+        <item>Mao</item>
+        <item>Chen</item>
+        <item>Si</item>
+        <item>Wu</item>
+        <item>Wei</item>
+        <item>Shen</item>
+        <item>You</item>
+        <item>Xu</item>
+        <item>Hai</item>
+    </string-array>
+    <string-array name="no_call_array">
+        <item>Telefoon toevoegen</item>
+        <item>Bel rechtstreeks</item>
+    </string-array>
+    <string-array name="no_sms_array">
+        <item>Telefoon toevoegen</item>
+        <item>Verzend rechtstreeks</item>
+    </string-array>
+    <string-array name="msg_option">
+        <item>Nu eenSMS zenden</item>
+        <item>Instellen om later te verzenden</item>
+    </string-array>
+    <string-array name="reminder_birthday_minutes_label">
+        <item>Herinner twee dagen van tevoren en op de exacte datum</item>
+        <item>Herinner een week van tevoren en op de exacte datum</item>
+        <item>Herinneren op de exacte datum</item>
+        <item>Niet herrineren</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Zal slechts een paar minuten te laat zijn.</item>
+        <item>Zal daar binnen 10 minuten zijn.</item>
+        <item>Begin maar zonder mij.</item>
+        <item>Sorry, ik kan het niet geraken. We moeten een nieuwe afspraak maken.</item>
+    </string-array>
+    <string-array name="live_event_types">
+        <item>Live sport</item>
+        <item>Live entertainment</item>
+        <item>Live muziek</item>
+        <item>Andere live uitzendingen</item>
+        <item>Documentaire</item>
+        <item>Film</item>
+        <item>Vakantie</item>
+        <item>Leven</item>
+        <item>Hot spot</item>
+    </string-array>
+    <string-array name="timezone_rename_ids">
+        <item>Australië/Darwin</item>
+        <item>Australië/Adelaide</item>
+        <item>Australië/Brisbane</item>
+        <item>Australië/Sydney</item>
+        <item>Amerika/Dawson_Creek</item>
+        <item>Amerika/Regina</item>
+        <item>Amerika/Atikokan</item>
+        <item>Amerika/Blanc-Sablon</item>
+        <item>Stille Oceaan/Honolulu</item>
+        <item>Amerika/Adak</item>
+        <item>Amerika/Metlakatla</item>
+        <item>Amerika/Phoenix</item>
+        <item>Amerika/Tijuana</item>
+        <item>Amerika/Ojinaga</item>
+        <item>Amerika/Matamoros</item>
+        <item>Amerika/Hermosillo</item>
+        <item>Afrika/Juba</item>
+        <item>Amerika/Kralendijk</item>
+        <item>Amerika/Lower_Princes</item>
+        <item>Europa/Minsk</item>
+        <item>Europa/Kaliningrad</item>
+        <item>Amerika/Porto_Velho</item>
+        <item>Amerika/Belem</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australian Central - NT</item>
+        <item>Australian Central - SA</item>
+        <item>Australian Eastern - QLD</item>
+        <item>Australian Eastern - NSW</item>
+        <item>Mountain Standard - Dawson Creek</item>
+        <item>Central Standard - Saskatchewan</item>
+        <item>Eastern Standard - Atikokan</item>
+        <item>Atlantic Standard - Quebec</item>
+        <item>Hawaii-Aleutian - Hawaii</item>
+        <item>Hawaii-Aleutian - Alaska</item>
+        <item>Pacific Standard - Metlakatla</item>
+        <item>Mountain Standard - Arizona</item>
+        <item>Pacific - Baja California</item>
+        <item>Mountain - Chihuahua</item>
+        <item>Central - Tamaulipas</item>
+        <item>Mountain - Sonora</item>
+        <item>East Africa Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>Eastern European Time</item>
+        <item>Kaliningrad Time</item>
+        <item>Amazon - Rondônia</item>
+        <item>Brasilia - Pará</item>
+    </string-array>
+    <string-array name="backup_country_codes">
+        <item>SX</item>
+        <item>BQ</item>
+        <item>CW</item>
+        <item>SS</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Caribisch Nederland</item>
+        <item>Curaçao</item>
+        <item>Zuid Soedan</item>
+    </string-array>
+</resources>

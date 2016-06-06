@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="n_folders">
+        <item quantity="other">%1$d mappen</item>
+        <item quantity="one">%1$d map</item>
+    </plurals>
+    <plurals name="n_files">
+        <item quantity="other">%1$d bestanden</item>
+        <item quantity="one">%1$d bestand</item>
+    </plurals>
+    <plurals name="search_found_items">
+        <item quantity="other">%d items gevonden</item>
+        <item quantity="one">%1$d item gevonden</item>
+    </plurals>
+    <plurals name="selection_folders">
+        <item quantity="other">%1$d mappen geselecteerd..</item>
+        <item quantity="one">%1$d map geselecteerd.</item>
+    </plurals>
+    <plurals name="selection_files">
+        <item quantity="other">%1$d bestanden geselecteerd.</item>
+        <item quantity="one">%1$d bestand geselecteerd.</item>
+    </plurals>
+    <plurals name="delate_money_folers">
+        <item quantity="other">De %1$d geselecteerde bestand(en) verwijderen</item>
+        <item quantity="one">Het %1$d geselecteerd bestand verwijderen</item>
+    </plurals>
+    <plurals name="delate_folers">
+        <item quantity="other">De %1$s geselecteerde bestand(en) verwijderen</item>
+        <item quantity="one">"Map %1$s verwijderen 
+%1$d in deze map"</item>
+    </plurals>
+</resources>

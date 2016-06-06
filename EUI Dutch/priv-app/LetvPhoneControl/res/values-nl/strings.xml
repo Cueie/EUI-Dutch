@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mijn telefoon vinden</string>
+    <string name="perm_service_bind">Dienst op afstand koppelen</string>
+    <string name="permdesc_service_bind">Telefoon kan ontgrendeld worden zodra dienst op afstand gekoppeld is</string>
+    <string name="perm_service_send_broadcast">Om een op afstand oproep te verzenden</string>
+    <string name="permdesc_service_send_broadcast">Toestemming om een op afstand oproep te verzenden, blokkeren, deblokkeren en data te wissen</string>
+    <string name="perm_service_broadcast">Om een op afstand oproep te ontvangen</string>
+    <string name="permdesc_service_broadcast">Afstand oproep ontvangen, blokkeren, deblokkeren en data te wissen</string>
+    <string name="local_page">Telefoon geblokkeerd</string>
+    <string name="subpas">Gedeblokkeerd</string>
+    <string name="phone_in_searching_title">Telfoon vinden…</string>
+    <string name="phone_in_searching_ok">Begrepen</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%s pogingen om een VPN verbinding te maken.</string>
+    <string name="warning">Door verder te gaan, geeft u de app toestemming om al het netwerkverkeer te onderscheppen. &lt;b>Niet aanvaarden, tenzij u de app vertrouwt.&lt;/b> Anders loopt u het risico dat uw data gecompromitteerd kan worden door  kwaadwillende software.</string>
+    <string name="legacy_title">VPN is verbonden</string>
+    <string name="configure">Configureren</string>
+    <string name="disconnect">Verbinding verbreken</string>
+    <string name="session">Sessie:</string>
+    <string name="duration">Duur:</string>
+    <string name="data_transmitted">Verzonden:</string>
+    <string name="data_received">Ontvangen:</string>
+    <string name="data_value_format">%1$s bytes / %2$s pakketen</string>
+    <string name="accept">Ik vertrouw deze app.</string>
+</resources>

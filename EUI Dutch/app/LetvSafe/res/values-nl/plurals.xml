@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autoboot_title">
+        <item quantity="other">U hebt de %d apps toegestaan om automatisch op te starten</item>
+        <item quantity="one">U hebt de %d app toegestaan om automatisch op te starten</item>
+    </plurals>
+    <plurals name="number_apps">
+        <item quantity="other">%s apps</item>
+        <item quantity="one">%s app</item>
+    </plurals>
+</resources>

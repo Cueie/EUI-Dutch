@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="action_use_network">Dit netwerk gebruiken zoals het is</string>
+    <string name="action_do_not_use_network">Dit netwerk niet gebruiken</string>
+    <string name="action_bar_label">Aanmelden op netwerk</string>
+    <string name="action_cancle">Sluiten</string>
+</resources>

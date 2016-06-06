@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Telefoon en berichten opslag</string>
+    <string name="mmssms_sync_label">Verzenden</string>
+    <string name="leui_train_title_for_calendar">Treinticket:</string>
+    <string name="leui_movie_title_for_calendar">Filmticket:</string>
+    <string name="address">Adres:</string>
+    <string name="seat">Zetel:</string>
+    <string name="leui_flight_title_for_calendar">Vliegticket:</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="number_opt">
+        <item>Nieuw contact</item>
+        <item>Toevoegen aan contact</item>
+        <item>Verwijderen</item>
+        <item>Belangrijke bellijst</item>
+        <item>Toevoegen aan zwarte lijst</item>
+        <item>Label</item>
+    </string-array>
+    <string-array name="markLables">
+        <item>Oplichter</item>
+        <item>Agent</item>
+        <item>Marketing</item>
+        <item>Levering</item>
+        <item>Post</item>
+        <item>Aangepast</item>
+    </string-array>
+    <string-array name="labelOrders">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+    </string-array>
+    <string-array name="markLables_for_yellopage">
+        <item>Oplichter</item>
+        <item>Agent</item>
+        <item>Marketing</item>
+        <item>Levering</item>
+        <item>Express</item>
+        <item>Aangepast</item>
+    </string-array>
+    <string-array name="blackItmes">
+        <item>Gesprekken en berichten blokkeren</item>
+        <item>Gesprekken blokkeren</item>
+        <item>BBerichten blokkeren</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Organizatie</item>
+        <item>Notitie</item>
+    </string-array>
+</resources>

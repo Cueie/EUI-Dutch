@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="star">
+        <item>Films en TV schows</item>
+        <item>Entertainment nieuws</item>
+        <item>Achtergronden</item>
+        <item>Top singles</item>
+        <item>Muziek albums</item>
+        <item>Verwante artiesten</item>
+        <item>Verwante tweets</item>
+        <item>Verwante websites</item>
+    </string-array>
+    <string-array name="player">
+        <item>Films en TV schows</item>
+        <item>Sport nieuws</item>
+        <item>Achtergronden</item>
+        <item>Geen</item>
+        <item>Muziek albums</item>
+        <item>Geen</item>
+        <item>Verwante tweets</item>
+        <item>Verwante websites</item>
+    </string-array>
+    <string-array name="movie">
+        <item>Films en TV schows</item>
+        <item>Entertainment nieuws</item>
+        <item>Achtergronden</item>
+        <item>Soundtracks</item>
+        <item>Geen</item>
+        <item>Verwante artiesten</item>
+        <item>Geen</item>
+        <item>Geen</item>
+    </string-array>
+    <string-array name="team">
+        <item>Films en TV schows</item>
+        <item>Relevant nieuws</item>
+        <item>Achtergronden</item>
+        <item>Verwante muziek</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Geen</item>
+    </string-array>
+    <string-array name="brand">
+        <item>Geen</item>
+        <item>Merk nieuws</item>
+        <item>Achtergronden</item>
+        <item>Label muziek</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Verwante tweets</item>
+        <item>Verwante websites</item>
+    </string-array>
+    <string-array name="region">
+        <item>Geen</item>
+        <item>Verwante video\'s</item>
+        <item>Achtergronden</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Geen</item>
+        <item>Verwante tweets</item>
+        <item>Geen</item>
+    </string-array>
+    <string-array name="ticket_status">
+        <item>Hot</item>
+        <item>Voorverkoop</item>
+        <item>Ongeldig</item>
+        <item>In wachtrij</item>
+        <item>Uitverkocht</item>
+        <item>Vertraagd</item>
+        <item>Annuleren</item>
+        <item>Aanvaard</item>
+    </string-array>
+    <string-array name="listen_music_title_array">
+        <item>Editor\'s keuze</item>
+        <item>Aanbevolen</item>
+    </string-array>
+    <string-array name="listen_music_latest_album_tab_title_array">
+        <item>Chinees</item>
+        <item>Westers</item>
+        <item>Koreaans</item>
+        <item>Japanees</item>
+    </string-array>
+    <string-array name="music_detail_tab_title_array">
+        <item>Nummers</item>
+        <item>Albums</item>
+        <item>MV</item>
+    </string-array>
+    <string-array name="ranklist">
+        <item>Nieuw</item>
+        <item>Populair</item>
+        <item>Origineel</item>
+        <item>Hitparade</item>
+        <item>MNUT</item>
+        <item>Oricon</item>
+    </string-array>
+	<string-array name="week_day">
+        <item>Zondag</item>
+        <item>Maandag</item>
+        <item>Dinsdag</item>
+        <item>Woensdag</item>
+        <item>Donderdag</item>
+        <item>Vrijdag</item>
+        <item>Zaterdag</item>
+    </string-array>
+    <string-array name="love_performance_home_menu_tltle">
+        <item>Concert</item>
+        <item>Optreden</item>
+        <item>Concert</item>
+    </string-array>
+    <string-array name="listen_music_section_title">
+        <item>Weekelijks Hot</item>
+        <item>Aanbevolen collecties</item>
+        <item>Aanbevolen functies</item>
+        <item>Hitparade</item>
+        <item>Nieuw album toegevoegd</item>
+        <item>Scenario radio</item>
+    </string-array>
+    <string-array name="love_music_section_radio_name">
+        <item>Origineel</item>
+        <item>Scene</item>
+        <item>Genre</item>
+        <item>Humeur</item>
+    </string-array>
+    <string-array name="radio_name_array">
+        <item>Aanbevolen</item>
+        <item>Origineel</item>
+        <item>Scene</item>
+        <item>Genre</item>
+        <item>Humeur</item>
+    </string-array>
+    <string-array name="listen_music_section_rank_name">
+        <item>Nieuw</item>
+        <item>Populair</item>
+        <item>Oricon hitparade</item>
+        <item>Hitparade</item>
+    </string-array>
+    <string-array name="album_filter">
+        <item>Aanbevolen</item>
+        <item>Chinees</item>
+        <item>Westers</item>
+        <item>Koreaans</item>
+        <item>Japanees</item>
+    </string-array>
+	<string-array name="performance_order_filter">
+        <item>Sorteren op bestellingstijd</item>
+        <item>Sorteren op optreed tijd</item>
+        <item>Sorteren op ticketverkoop agent</item>
+    </string-array>
+    <string-array name="local_music_sort">
+        <item>Gesorteerd op aangemaakte tijd (oudste eerst)</item>
+        <item>Gesorteerd op aangemaakte tijd (nieuwste eerst)</item>
+        <item>Gesorteerd op beginletter</item>
+    </string-array>
+    <string-array name="playlist_list_menu">
+        <item>Naam wijzigen</item>
+        <item>Verwijderen</item>
+    </string-array>
+    <string-array name="alphabets">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="album_detail_header_menu">
+        <item>Delen</item>
+        <item>Favoriet</item>
+        <item>Toevoegen aan</item>
+    </string-array>
+    <string-array name="array_setting_auto">
+        <item>Automatisch selecteren</item>
+    </string-array>
+    <string-array name="rank_category">
+        <item>Xiami hitparade</item>
+        <item>Wereldwijde hitparade</item>
+    </string-array>
+    <string-array name="array_rank_types_xiami">
+        <item>Populair</item>
+        <item>Nieuw</item>
+        <item>Origieel</item>
+        <item>Artiest Demos</item>
+    </string-array>
+    <string-array name="array_rank_types_world_media">
+        <item>Hito Chinese</item>
+        <item>Hong Kong Gold</item>
+        <item>UK Singles</item>
+        <item>Hitparade</item>
+        <item>ORICON</item>
+        <item>MNET</item>
+    </string-array>
+    <string-array name="search_result_title">
+        <item>Singles</item>
+        <item>Artiest</item>
+        <item>Album</item>
+        <item>MV</item>
+        <item>Lokaal</item>
+    </string-array>
+    <string-array name="artist_region_name">
+        <item>Chinese vrouwelijke zangers</item>
+        <item>Chinese mannelijke zangers</item>
+        <item>Chinese groepen</item>
+        <item>Westerse mannelijke zangers</item>
+        <item>Western vrouwelijke zangers</item>
+        <item>Western groepen</item>
+        <item>Japanese mannelijke zanger</item>
+        <item>Japanese vrouwelijke zangers</item>
+        <item>Japanese groepen</item>
+        <item>Koreaanse mannelijke zangers</item>
+        <item>Korean vrouwelijke zangers</item>
+        <item>Korean bands</item>
+    </string-array>
+    <string-array name="blank_page_failure_message">
+        <item>Geen zoekresultaten</item>
+        <item>Geen lyrics</item>
+        <item>Geen muziek</item>
+        <item>Geen opname</item>
+        <item>Geen info geabboneerd</item>
+    </string-array>
+    <string-array name="blank_page_failure_description">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="weeklist">
+        <item>Week 1</item>
+        <item>Week 2</item>
+        <item>Week 3</item>
+        <item>Week 4</item>
+        <item>Week 5</item>
+        <item>Week 6</item>
+        <item>Week 7</item>
+        <item>Week 8</item>
+        <item>Week 9</item>
+        <item>Week 10</item>
+        <item>Week 11</item>
+        <item>Week 12</item>
+    </string-array>
+</resources>

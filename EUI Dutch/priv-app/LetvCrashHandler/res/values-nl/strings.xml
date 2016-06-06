@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crash behandelaar</string>
+    <string name="hello_world">Hallo iedereen!</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="simu_bsp_bug">BSP Bug simuleren</string>
+    <string name="start_me">Mezelf starten</string>
+</resources>

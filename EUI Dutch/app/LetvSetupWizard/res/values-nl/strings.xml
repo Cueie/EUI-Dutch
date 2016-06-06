@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_wizard_next_button_label">Volgende</string>
+    <string name="setup_wizard_back_button_label">Terug</string>
+    <string name="setup_wizard_title">Installatiewizard</string>
+    <string name="panel_footer_text_next">Doorgaan</string>
+    <string name="panel_footer_text_skip">Overslaan</string>
+    <string name="panel_footer_text_finish">Voltooien</string>
+    <string name="setupguide_strings_done_button_txt">Voltooid</string>
+    <string name="title">Selecteer uw taal</string>
+    <string name="inputmethod_pinyin_9_keys">9-key pinyin</string>
+    <string name="inputmethod_pinyin_all_keys">Volledig toetsenbord pinyin</string>
+    <string name="inputmethod_wubi">Wubi</string>
+    <string name="inputmethod_bihua">Bihua</string>
+    <string name="inputmethod_shouxie">Handschrift</string>
+    <string name="inputmethod_english_all_keys">Engels</string>
+    <string name="title_usage_terms">Gebruiksvoorwaarden</string>
+    <string name="useragreement">Gebruikersovereenkomst</string>
+    <string name="privacypolicy">Privacybeleid</string>
+    <string name="agreement">Akkoord en doorgaan</string>
+    <string name="agreement_oversea">Doorgaan</string>
+    <string name="title_usage_terms_description">Kies akkoord om van de EUI diensten te genieten</string>
+    <string name="title_usage_terms_description_oversea">"Door op Doorgaan te tikken, gaat u akkoord met
+wat je gelezen en alle bepalingen aanvaard hebt 
+in de gebruikersovereenkomst en het privacybeleid."</string>
+    <string name="sim_damaged_title">%d kaart beschadigd</string>
+    <string name="sim_locked_title">%d kaart geblokkeerd</string>
+    <string name="sim_missing_title">%d kaart niet aanwezig</string>
+    <string name="sim_damaged_text">Wissel SIM kaart</string>
+    <string name="sim_damaged_nomal_toast">SIM kaart is beschadigd. Voer een geldige SIM kaart in.</string>
+    <string name="sim_damaged_puk_lock_toast">SIM kaart is geblokkeerd. Neem contact op met uw provider.</string>
+    <string name="sim_checking_title">SIM kaart invoeren</string>
+    <string name="sim_detect_title">%d kaart gedetecteerd</string>
+	<string name="title_turnonmobiledata">Mobiele data inschakelen</string>
+    <string name="title_turnonmobiledata_description">Mobiele data gebruiken wanneer u niet verbonden bent Wi-Fi</string>
+    <string name="sim_missing_text">SIM kaart invoeren</string>
+    <string name="mobiledate">Mobiele netwerk</string>
+    <string name="description_mobile">Heb toegang tot het internet met mobiele data wanneer u niet verbonden bent Wi-Fi</string>
+    <string name="button_not_use_sim_text">Niet gebruiken</string>
+    <string name="title_other_service">Ander diensten</string>
+    <string name="title_location_service">Locatie dienst inschakelen</string>
+    <string name="title_location_service_description">Locatie dienst laat \"Map\" of andere apps toe om Wi-Fi en mobiele netwerken te gebruiken om jezelf te lokaliseren.</string>
+    <string name="title_location_service_description_oversea">Locatie dienst laat \"Map\" of andere apps toe om GPS te gebruiken om jezelf te lokaliseren.</string>
+    <string name="title_user_plan_service">Gebruikerservaring feedback inschakelen</string>
+    <string name="title_user_plan_service_description">Om de kwaliteit van het product en de tevredenheid van de gebruikers te verbeteren laten we u een feedback geven op uw gebruikerservaring. Het verzamelen van gegevens is in strikte overeenstemming met ons <u>Privacybeleid</u>.</string>
+    <string name="setupguide_strings_finished_title">Instellen voltooid</string>
+    <string name="setupguide_strings_finished_content">Welkom tot de wereld van Le Superphone.</string>
+    <string name="dialogcanel">Annuleren</string>
+    <string name="inputmethod_dialogtitle">Chinese invoer methode</string>
+	<string name="title_language">TAAL</string>
+    <string name="language_chinese">Vereenvoudigd Chinees</string>
+    <string name="language_taiwan">Traditioneel Chinees (Taiwan)</string>
+    <string name="language_hk">Russisch</string>
+    <string name="language_en">Engels</string>
+	<string name="language_nl">Nederlands</string>
+    <string name="language_spanish">Spaans</string>
+    <string name="language_thailand">Thais</string>
+    <string name="language_hindi">Hindi</string>
+    <string name="SIM_1">SIM card 1</string>
+    <string name="SIM_2">SIM card 2</string>
+    <string name="zh_hk">zh_HK</string>
+	<string name="language_en_shutdown_tip">"Er is voor een lange tijd geen activiteit gedetecteerd,
+telefoon zal automatisch uitschakelen
+na aftelling.
+Raak het scherm aan om te annuleren"</string>
+    <string name="language_nl_shutdown_title">UITSCHAKELEN</string>
+    <string name="title_google_service">Google diensten</string>
+    <string name="use_google_service">Google account instellen</string>
+    <string name="google_service_description">"Uw Google account instellen om Google diensten te gebruiken.
+
+Als u reeds een Google account hebt, meld u direct aan.
+Zoniet, maak een account aan."</string>
+    <string name="title_country_region">Land en regio selecteren</string>
+    <string name="hongkong">Hong Kong</string>
+    <string name="india">India</string>
+    <string name="title_letv_ecological">Le Ecosystem inhoud</string>
+    <string name="letv_ecological_description">"Als u ervoor kiest om van Le Ecosystem inhoud gebruik te maken zullen de volgende apps 
+automatisch geïnstalleerd worden op uw Superphone"</string>
+    <string name="letv_ecological_tip">"Om handmatig te selecteren welke apps u wilt installeren ga naar:
+Instellingen > Privé > Le Ecosystem inhoud."</string>
+    <string name="use_letv_ecological">Le Ecosystem inhoud gebruiken</string>
+    <string name="letv">Letv Video</string>
+    <string name="live">Live Desktop</string>
+    <string name="lesee">LeView Desktop</string>
+    <string name="title_display_mode">Weergave grootte selecteren</string>
+    <string name="title_display_mode_description">"Grootte en opmaak van scherm aanpassen
+Resetten in: Instellingen > Scherm > Zoom weergave"</string>
+    <string name="display_mode_normal">Standaard (Huidige)</string>
+    <string name="display_mode_large">Zoom</string>
+    <string name="display_mode_small">Gevoelig</string>
+    <string name="display_mode_confirm_description">Weergaveovergang zal de telefoon opnieuw opstarten. Doorgaan?</string>
+    <string name="display_mode_confirm_button">Doorgaan</string>
+    <string name="title_fingerprint_guide">Vingerafdruk toevoegen</string>
+    <string name="title_fingerprint_success">Met success toegevoegd</string>
+    <string name="title_fingerprint_guide_description">De toegevoegde vingerafdruk kan worden gebruikt om de telefoon te ontgrendelen</string>
+    <string name="title_fingerprint_success_description">U kan het wijzigen in  Instellingen > Vingerafdrukken\" > Vingerafdruk beheer</string>
+    <string name="btn_start_fingerprint">Toevoegen starten</string>
+	<string name="slogen_part1">Grenzen verleggen</string>
+    <string name="slogen_part2">met</string>
+    <string name="slogen_part3">Ecosystem Synergy</string>
+</resources>

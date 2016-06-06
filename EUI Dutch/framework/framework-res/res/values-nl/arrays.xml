@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Thuis</item>
+        <item>Werk</item>
+        <item>Ander</item>
+        <item>Aangepast</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Werk</item>
+        <item>Ander</item>
+        <item>Aangepast</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Thuis</item>
+        <item>Mobiel</item>
+        <item>Werk</item>
+        <item>Fax Werk</item>
+        <item>Fax Thuis</item>
+        <item>Semafoon</item>
+        <item>Ander</item>
+        <item>Aangepast</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Thuis</item>
+        <item>Werk</item>
+        <item>Ander</item>
+        <item>Aangepast</item>
+    </string-array>
+    <array name="config_keySystemUuidMapping" />
+    <string-array name="le_lunar_months">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Maart</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Augustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="le_months_en">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="le_lunar_days_29">
+        <item>Dag 1</item>
+        <item>Dag 2</item>
+        <item>Dag 3</item>
+        <item>Dag 4</item>
+        <item>Dag 5</item>
+        <item>Dag 6</item>
+        <item>Dag 7</item>
+        <item>Dag 8</item>
+        <item>Dag 9</item>
+        <item>Dag 10</item>
+        <item>Dag 11</item>
+        <item>Dag 12</item>
+        <item>Dag 13</item>
+        <item>Dag 14</item>
+        <item>Dag 15</item>
+        <item>Dag 16</item>
+        <item>Dag 17</item>
+        <item>Dag 18</item>
+        <item>Dag 19</item>
+        <item>Dag 20</item>
+        <item>Dag 21</item>
+        <item>Dag 22</item>
+        <item>Dag 23</item>
+        <item>Dag 24</item>
+        <item>Dag 25</item>
+        <item>Dag 26</item>
+        <item>Dag 27</item>
+        <item>Dag 28</item>
+        <item>Dag 29</item>
+    </string-array>
+    <string-array name="le_lunar_days_30">
+        <item>Dag 1</item>
+        <item>Dag 2</item>
+        <item>Dag 3</item>
+        <item>Dag 4</item>
+        <item>Dag 5</item>
+        <item>Dag 6</item>
+        <item>Dag 7</item>
+        <item>Dag 8</item>
+        <item>Dag 9</item>
+        <item>Dag 10</item>
+        <item>Dag 11</item>
+        <item>Dag 12</item>
+        <item>Dag 13</item>
+        <item>Dag 14</item>
+        <item>Dag 15</item>
+        <item>Dag 16</item>
+        <item>Dag 17</item>
+        <item>Dag 18</item>
+        <item>Dag 19</item>
+        <item>Dag 20</item>
+        <item>Dag 21</item>
+        <item>Dag 22</item>
+        <item>Dag 23</item>
+        <item>Dag 24</item>
+        <item>Dag 25</item>
+        <item>Dag 26</item>
+        <item>Dag 27</item>
+        <item>Dag 28</item>
+        <item>Dag 29</item>
+        <item>Dag 30</item>
+    </string-array>
+    <string-array name="le_animals">
+        <item>Rat</item>
+        <item>Os</item>
+        <item>Tijger</item>
+        <item>Konijn</item>
+        <item>Draak</item>
+        <item>Slang</item>
+        <item>Paard</item>
+        <item>Geit</item>
+        <item>Aap</item>
+        <item>Haan</item>
+        <item>Hond</item>
+        <item>Zwijn</item>
+    </string-array>
+    <string-array name="le_chinesenumber">
+        <item>Eén</item>
+        <item>Twee</item>
+        <item>Drie</item>
+        <item>Vier</item>
+        <item>Vijf</item>
+        <item>Zes</item>
+        <item>Zeven</item>
+        <item>Acht</item>
+        <item>Negen</item>
+        <item>Tien</item>
+    </string-array>
+    <string-array name="le_chineseten">
+        <item>Eén</item>
+        <item>Tien</item>
+        <item>Twintig</item>
+        <item>Dertig</item>
+    </string-array>
+    <string-array name="le_solar_term">
+        <item></item>
+        <item>Minder koud</item>
+        <item>Grootte koude</item>
+        <item>Begin van de lenet</item>
+        <item>Regen</item>
+        <item>Ontwaken van de insecten</item>
+        <item>Lente equinox</item>
+        <item>Klaar en helder</item>
+        <item>Korrel regen</item>
+        <item>Begin van de zomer</item>
+        <item>Korrelvol</item>
+        <item>Korrel in oor</item>
+        <item>Zomerzonnewende</item>
+        <item>Minder warm</item>
+        <item>Grootte hitte</item>
+        <item>Begin van de herfst</item>
+        <item>Gemiddeld warm</item>
+        <item>Witte dauw</item>
+        <item>Herfst equinox</item>
+        <item>Koude dauw</item>
+        <item>Aankomende vries</item>
+        <item>Begin van de winter</item>
+        <item>Lichte sneeuw</item>
+        <item>Hevige sneeuw</item>
+        <item>Winterzonnewende</item>
+    </string-array>
+    <string-array name="le_solar_holiday">
+        <item>01/01 Nieuwjaars dag</item>
+        <item>02/14 Valentijntje</item>
+        <item>03/08 Dag van de vrouw</item>
+        <item>03/12 Nationale Boomfeestdag</item>
+        <item>03/15 Dag van de klant</item>
+        <item>04/01 1 April</item>
+        <item>05/01 Dag van de arbeid</item>
+        <item>05/04 Dag van de jeugd</item>
+        <item>06/01 Dag van het kind</item>
+        <item>07/01 Feestdag</item>
+        <item>08/01 Dag van het Leger</item>
+        <item>08/08 Vaderdag</item>
+        <item>09/10 Dag van de leraars</item>
+        <item>09/21 Nationale feestdag</item>
+        <item>10/31 Halloween</item>
+        <item>11/11 Dag van de alleenstaanden</item>
+        <item>12/24 Kerstavond</item>
+        <item>12/25 Kerstdag</item>
+    </string-array>
+    <string-array name="le_lunar_festival">
+        <item>Layue 19 Chinees Nieuwjaarsavond</item>
+        <item>Layue 30 Layue 19 Chinees Nieuwjaarsavond</item>
+        <item>Zhengyue 1 Lente Festival</item>
+        <item>2/2 Longtaitou Festival</item>
+        <item>Zhengyue 15 Lantaarn Festival</item>
+        <item>5/5 Drakenboot Festival</item>
+        <item>7/7 Qixi Festival</item>
+        <item>7/15 Geest Festival</item>
+        <item>8/15 Midden herfst Festival</item>
+        <item>9/9 Dubbele negen Festival</item>
+        <item>Layue 8 Laba Festival</item>
+        <item>Layue 23 Vooravond</item>
+    </string-array>
+    <string-array name="le_lunar_month_name">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Maart</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Augustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="leui_yellow_page_black_array">
+        <item>Oplichter</item>
+        <item>Verkoper</item>
+        <item>Makelaars</item>
+        <item>Irriterende telefoontjes</item>
+    </string-array>
+    <string-array name="le_url_phone_list">
+        <item>Een oproep maken</item>
+        <item>Bericht verzenden</item>
+        <item>Nummer kopiëren</item>
+        <item>Opslaan als nieuw</item>
+        <item>Opslaan naar bestaand</item>
+    </string-array>
+    <string-array name="le_url_phone_list_with_exists_contact">
+        <item>Bellen</item>
+        <item>Bericht verzenden</item>
+        <item>Nummer kopiëren</item>
+        <item>Contact weergeven: %s</item>
+    </string-array>
+    <string-array name="le_url_email_list">
+        <item>E-mail kopiëren</item>
+        <item>E-mail verzenden</item>
+        <item>Email opslaan</item>
+    </string-array>
+    <string-array name="le_url_web_list">
+        <item>Kopiëren</item>
+        <item>Openen</item>
+        <item>Opslaan</item>
+    </string-array>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Achtergrond en thema</string>
+    <string name="system_wallpaper">Systeem achtergronden</string>
+    <string name="local_theme">Lokale thema\'s</string>
+    <string name="online_theme">Online thema\'s</string>
+    <string name="eui">EUI</string>
+    <string name="elegant_lady">Elegante dame</string>
+    <string name="gorgeous">Prachtig</string>
+    <string name="noble_lady">Nobele dame</string>
+    <string name="romantic_lady">Romantische dame</string>
+    <string name="thin">Fijn</string>
+    <string name="flat">Simpel</string>
+    <string name="multicolored">Kleurrijk</string>
+    <string name="eui_tv">EUI TV</string>
+    <string name="elegant">Elegant</string>
+    <string name="miyue">Miyue</string>
+    <string name="yike">Lelijk</string>
+    <string name="state_wifi_network">Wi-Fi netwerk gebruiken</string>
+    <string name="state_mobile_network">U maakt gebruik van een mobiel netwerk, er kunnen kosten voor datagebruik aangerekend worden.</string>
+    <string name="state_no_network">Geen netwerkverbinding</string>
+    <string name="state_network_timeout">Netwerkverbinding timed-out. Controleer uw netwerkinstellingen.</string>
+    <string name="success_download">Gedownload</string>
+    <string name="cancal_download">Download is gepauzeerd. Opnieuw drukken om door te gaan met downloaden.</string>
+    <string name="set_theme_success">Thema met succes ingesteld</string>
+    <string name="set_theme_fail">Kan thema niet instellen</string>
+    <string name="theme_has_downloaded">Dit thema is gedownload</string>
+    <string name="make_sure_delete_theme">Bevestigen om dit thema te verwijderen?</string>
+    <string name="yes">Verwijderen</string>
+    <string name="no">Annuleren</string>
+</resources>

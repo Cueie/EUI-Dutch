@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">DRM beschermde inhoud opslag</string>
+    <string name="permlab_accessDrm">Toegang tot DRM inhoud.</string>
+    <string name="permdesc_accessDrm">Hiermee heeft de app toegang tot DRM beveiligde inhoud.</string>
+    <string name="permlab_installDrm">Installeer DRM inhoud.</string>
+    <string name="permdesc_installDrm">Hiermee heeft app toegang om DRM beveiligde inhoud te installeren.</string>
+</resources>

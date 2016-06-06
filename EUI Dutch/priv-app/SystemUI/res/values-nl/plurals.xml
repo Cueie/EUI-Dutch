@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d schermen in Overzicht</item>
+        <item quantity="one">1 scherm in Overzicht</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">SIM PIN code is niet juist, u hebt nog %d pogingen over.</item>
+        <item quantity="one">SIM PIN code is niet juist, u hebt nog %d poging over voordat u contact moet opnemen met uw provider om uw toestel te ontgrendelen.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">SIM PUK code is niet juist, u hebt nog %d pogingen voordat uw SIM onbruikbaar wordt.</item>
+        <item quantity="one">SIM PUK code is niet juist, u hebt nog %d poging voordat uw SIM onbruikbaar wordt.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code_leui">
+        <item quantity="other">De PIN dat u %1$d keer invoerde is niet juist. Na meer dan %2$d mislukte pogingen , enkel de PUK kan nog gebruikt worden.</item>
+        <item quantity="one">De PIN dat u %1$d keer invoerde is niet juist. Na meer dan %2$d mislukte poging, enkel de PUK kan nog gebruikt worden.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code_leui">
+        <item quantity="other">De PUK dat u %1$d keer invoerde is niet juist. Na meer dan %2$d mislukte pogingen, SIM kaart zal geblokkeerd worden.</item>
+        <item quantity="one">De PUK dat u %1$d keer invoerde is niet juist. Na meer dan %2$d mislukte poging, SIM kaart zal geblokkeerd worden.</item>
+    </plurals>
+</resources>

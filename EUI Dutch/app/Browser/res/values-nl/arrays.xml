@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="picture">
+        <item>Afbeelding</item>
+    </string-array>
+    <string-array name="le_letv_home_page_titles">
+        <item>Navigatie</item>
+        <item>Snel kiezen</item>
+        <item>Video</item>
+    </string-array>
+    <string-array name="user_agent_title">
+        <item>Standaard</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="geolocation_entry">
+        <item>Toestaan</item>
+        <item>Informeren</item>
+    </string-array>
+    <string-array name="text_zoom_title">
+        <item>Klein</item>
+        <item>Normaal</item>
+        <item>Groot</item>
+        <item>Extra groot</item>
+    </string-array>
+    <string-array name="popup_window_1">
+        <item>Openen in achtergrond</item>
+        <item>Openen in nizuw venster</item>
+        <item>Niet meer tonen</item>
+    </string-array>
+    <string-array name="popup_window_2">
+        <item>Openen in achtergrond</item>
+        <item>Verwijderen</item>
+    </string-array>
+    <string-array name="popup_window_3">
+        <item>Openen in achtergrond</item>
+        <item>Verwijderen</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Altijd aan</item>
+        <item>Op aanvraag</item>
+        <item>Uit</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Huidige pagina</item>
+        <item>Blanco pagina</item>
+        <item>Standaard pagina</item>
+        <item>Meets bezochte sites</item>
+        <item>Andere</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Extra klein</item>
+        <item>Klein</item>
+        <item>Normaal</item>
+        <item>Groot</item>
+        <item>Extra groot</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Ver</item>
+        <item>Medium</item>
+        <item>Sluiten</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Chinese (GBK)</item>
+        <item>Chinese (Big5)</item>
+        <item>Japanse (ISO-2022-JP)</item>
+        <item>Japanse (SHIFT_JIS)</item>
+        <item>Japanse (EUC-JP)</item>
+        <item>Koreaans (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Nooit</item>
+        <item>Alleen op Wi-Fi</item>
+        <item>Altijd</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Nooit</item>
+        <item>Alleen op Wi-Fi</item>
+        <item>Altijd</item>
+    </string-array>
+    <array name="bookmarks" />
+    <string-array name="select_carrier_title">
+        <item>Aanpassen</item>
+        <item>China Mobile (CMCC)</item>
+        <item>China Union (CU)</item>
+        <item>China Telecom (CT)</item>
+        <item>Full Netcom</item>
+        <item>Openen</item>
+    </string-array>
+    <string-array name="select_channel_title">
+        <item>Aanpassen</item>
+        <item>Vasteland van China</item>
+        <item>Hong Kong China</item>
+        <item>India</item>
+        <item>Noord Amerika</item>
+    </string-array>
+</resources>

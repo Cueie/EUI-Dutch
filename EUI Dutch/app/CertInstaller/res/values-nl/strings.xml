@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Certificaat van installatieprogramma</string>
+    <string name="pick_file_title">Kies een certificaat</string>
+    <string name="pkcs12_password_dialog_title">Certificaat uitpakken</string>
+    <string name="extracting_pkcs12">Uitpakken…</string>
+    <string name="pkcs12_file_password_dialog_title">Uitpakken van %s</string>
+    <string name="name_credential_dialog_title">Geef het certificaat een naam</string>
+    <string name="credential_name">Certificaat naam:</string>
+    <string name="credential_password">Voer het wachtwoord in om de certificaten uit te pakken.</string>
+    <string name="credential_info">Het pakket bevat:</string>
+    <string name="p12_description">Certificaten in PKCS12 keystore.</string>
+    <string name="one_userkey">één gebruikersleutel</string>
+    <string name="one_usercrt">één gebruikerscertificaat</string>
+    <string name="one_cacrt">één CA certificaat</string>
+    <string name="n_cacrts">%d CA certificaten</string>
+    <string name="password_error">Voer het juiste wachtwoord in.</string>
+    <string name="password_empty_error">Voer het wachtwoord in.</string>
+    <string name="name_empty_error">Typ een name.</string>
+    <string name="name_char_error">Typ een naam die alleen letters en cijfers bevatten.</string>
+    <string name="storage_error">Kon het certificaat niet opslaan. Tik op OK om opnieuw te proberen.</string>
+    <string name="unable_to_save_cert">Kon het certificaat niet opslaan. De opslag referenties zijn niet ingeschakeld of niet correct geïnitialiseerd.</string>
+    <string name="cert_not_saved">Het certificaat is niet geïnstalleerd.</string>
+    <string name="no_cert_to_saved">Geen certificaat te installeren.</string>
+    <string name="invalid_cert">Het certificaat is ongeldig.</string>
+    <string name="cert_is_added">%s is geïnstalleerd.</string>
+    <string name="cert_too_large_error">Kon niet installeren omdat het certificaat te groot is.</string>
+    <string name="cert_missing_error">Kon niet installeren omdat het certificaat bestand niet gelocaliseerd kon worden.</string>
+    <string name="cert_read_error">Kon niet installeren omdat het certificaat bestand niet gelezen kan worden.</string>
+    <string name="no_cert_file_found">Geen certificaat bestand gevonden in USB opslag.</string>
+    <string name="sdcard_not_present">USB opslag niet beschikbaar.</string>
+    <string name="only_primary_user_allowed">Alleen de eigenaar van dit apparaat kan de certificaten installeren.</string>
+    <string name="credential_usage_label">Credential gebruik:</string>
+</resources>

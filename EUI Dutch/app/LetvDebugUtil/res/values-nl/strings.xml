@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DebugUtil</string>
+    <string name="sleep_sign">Slaap optekenen</string>
+    <string name="download_mode">Download modus</string>
+    <string name="enable_logs">Alle logs inschakelen</string>
+    <string name="enable_cdma">FDD-LTE/WCDMA</string>
+    <string name="reboot">Herstart uw mobiele telefoon.</string>
+</resources>

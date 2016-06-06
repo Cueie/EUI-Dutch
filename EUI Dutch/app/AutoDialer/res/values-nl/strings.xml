@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auto Dialer</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="start_test_off">Start Test (UIT)</string>
+    <string name="start_test_on">Stop Test (AAN)</string>
+    <string name="loops">Loops</string>
+    <string name="loop_1">1</string>
+    <string name="loop_50">50</string>
+    <string name="loop_100">100</string>
+    <string name="loop_200">200</string>
+    <string name="delete">Verwijderen</string>
+    <string name="hot">heet</string>
+    <string name="warm">warm</string>
+    <string name="cold">koud</string>
+    <string name="full">Volledig</string>
+    <string name="phone">Telefoon</string>
+    <string name="phone_911">911</string>
+    <string name="phone_8378911">\#8378911</string>
+    <string name="phone_edit">Edit</string>
+    <string name="end_call">Gepreksduur beëindigen</string>
+    <string name="phone_call">Gepreksduur telefoon</string>
+    <string name="settings">Instellingen</string>
+    <string name="a" />
+</resources>

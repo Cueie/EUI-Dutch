@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Bugrapport vastgelegd</string>
+    <string name="bugreport_finished_text">Aanraken om uw bugrapport te delen</string>
+    <string name="bugreport_confirm">Bug rapporten bevatten data uit verschillende logbestanden van het systeem, inclusief persoonlijke en privé informatie. Alleen het bugrapporten met apps en mensen die je vertrouwt delen.</string>
+    <string name="bugreport_confirm_repeat">Volgende keer dit bericht weergeven</string>
+</resources>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="le_contact_actions">
+        <item>E-mail verzenden</item>
+        <item>Contact opslaan</item>
+        <item>Toevoegen aan een bestaand contact</item>
+    </string-array>
+    <string-array name="le_attachment_manager_filter_menu_items">
+        <item>Postvak IN</item>
+        <item>Verzonden</item>
+    </string-array>
+    <string-array name="le_attachment_manager_sort_menu_items">
+        <item>Tijd</item>
+        <item>Type</item>
+        <item>Naam</item>
+        <item>Afzender</item>
+    </string-array>
+    <string-array name="le_save_draft_confirm_dialog_list">
+        <item>Concept verwijderen</item>
+        <item>Opslaan als concept</item>
+        <item>Annuleren</item>
+    </string-array>
+    <string-array name="le_add_attachment_items">
+        <item>Camera</item>
+        <item>Albums</item>
+        <item>Bestanden</item>
+        <item>Bijlagen</item>
+    </string-array>
+    <string-array name="le_save_inline_image">
+        <item>Geselecteerde afbeelding opslaan</item>
+        <item>Alle afbeeldingen opslaan</item>
+        <item>Annµ</item>
+    </string-array>
+    <string-array name="le_forward_share_attachment">
+        <item>Doorsturen</item>
+        <item>Delen</item>
+        <item>Annuleren</item>
+    </string-array>
+    <string-array name="le_delete_calendar_event">
+        <item>Geef overeenkomstige e-mails weer</item>
+        <item>E-mail verwijderen</item>
+        <item>E-mail behouden</item>
+    </string-array>
+    <string-array name="le_search_texts">
+        <item>Alle</item>
+        <item>Hoofd Tekst</item>
+        <item>Thema</item>
+        <item>Naar</item>
+        <item>Van</item>
+    </string-array>
+    <string-array name="le_search_attachment_texts">
+        <item>Alle</item>
+        <item>Bijlage naam</item>
+        <item>Thema</item>
+        <item>Naar</item>
+        <item>Van</item>
+    </string-array>
+    <string-array name="le_search_title">
+        <item>Hoofd Tekst</item>
+        <item>Thema</item>
+        <item>Naar</item>
+        <item>Van</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>Beantwoorden</item>
+        <item>Alle beantwoorden</item>
+        <item>Doorsturen</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Met success</item>
+        <item>Geen netwerkverbinding.</item>
+        <item>Kon niet aanmelden</item>
+        <item>Beveiligingsfout.</item>
+        <item>Kon niet synchroniseren</item>
+        <item>Interne fout</item>
+        <item>Server fout</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Nieuwer</item>
+        <item>Ouder</item>
+        <item>Conversaties</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Na verwijdering nieuwere conversatie weergeven</item>
+        <item>Na verwijdering oudere conversatie weergeven</item>
+        <item>Na verwijdering onversatielijst weergeven</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Alleen archief weergeven</item>
+        <item>Alleen verwijderde weergeven</item>
+        <item>Alleen archief en verwijderde weergeven</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Alleen archief weergeven</item>
+        <item>Alleen verwijderde weergeven</item>
+        <item>Alleen archief en verwijderde weergeven</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>E-mailfuncties altijd weergeven boven in het scherm</item>
+        <item>Enkel e-mailfuncties weergeven boven in het scherm, terwijl het apparaat is in portret modus</item>
+        <item>E-mailfuncties niet weergeven boven in het scherm</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Altijd weergeven</item>
+        <item>Enkel weergeven in portret modus</item>
+        <item>Niet weergeven</item>
+    </string-array>
+    <string-array name="le_preference_entries_snippet_lines">
+        <item>1 lijn</item>
+        <item>2 lijnen</item>
+        <item>3 lijnen</item>
+        <item>4 lijnen</item>
+    </string-array>
+    <string-array name="le_preference_model">
+        <item>Standaard formaat</item>
+        <item>Conversatie formaat</item>
+    </string-array>
+</resources>

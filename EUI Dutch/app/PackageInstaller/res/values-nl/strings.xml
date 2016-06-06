@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App installer</string>
+    <string name="next">Volgende</string>
+    <string name="install">Installeren</string>
+    <string name="done">Voltooid</string>
+    <string name="security_settings_desc">Deze app toestaan om:</string>
+    <string name="cancel">Annuleren</string>
+    <string name="unknown">Onbekend</string>
+    <string name="install_done">App geïnstalleerd</string>
+    <string name="install_confirm_question">Deze app installeren? Het heeft de volgende toestemmingen nodig:</string>
+    <string name="install_confirm_question_no_perms">Deze app installeren? Deze app geeft geen toestemming nodig.</string>
+    <string name="install_confirm_question_update">Deze update installeren? Uw bestaande data wordt opgeslaan. De app zal de volgende toestemmingen hebben na de update:</string>
+    <string name="install_confirm_question_update_system">Deze ingebouwde app update installeren? Uw bestaande data wordt opgeslaan. De app zal de volgende toestemmingen hebben na de update:</string>
+    <string name="install_confirm_question_update_no_perms">Update voor deze bestaande app installeren? Uw bestaande data wordt opgeslaan en de update heeft geen toestemming nodig.</string>
+    <string name="install_confirm_question_update_system_no_perms">Update voor deze ingebouwde app installeren? Uw bestaande data wordt opgeslaan en de update heeft geen toestemming nodig.</string>
+    <string name="install_failed">Kan app niet installeren</string>
+    <string name="install_failed_invalid_apk">Ongeldige APK.</string>
+    <string name="install_failed_inconsistent_certificates">Een app met dit certificaat bestaat reeds.</string>
+    <string name="install_failed_older_sdk">Deze app kan alleen worden geïnstalleerd op nieuwere versies van Android.</string>
+    <string name="install_failed_cpu_abi_incompatible">Deze app is niet compatibel met uw telefoon.</string>
+    <string name="install_failed_file_not_found">APK niet gevonden. Kan installatie niet voltooien.</string>
+    <string name="install_failed_verify_failed">APK is niet geverifieerd. Kan niet installeren</string>
+    <string name="install_failed_verify_timeout">APK verificatie timed-out Probeer opnieuw</string>
+    <string name="install_failed_msg">Kan %1$s niet installeren op uw telefoon</string>
+    <string name="launch">Openen</string>
+    <string name="unknown_apps_dlg_title">Onbekende app</string>
+    <string name="unknown_apps_dlg_text">Om veiligheidsredenen kan uw telefoon geen apps van onbekende bronnen installeren.</string>
+    <string name="ok">Ok</string>
+    <string name="settings">Instellingen</string>
+    <string name="allow_source_dlg_title">Nieuwe app bron</string>
+    <string name="allow_source_dlg_text">"%1$s vraagt om andere apps te installeren.
+ 
+Deze actie nu toestaan?"</string>
+    <string name="manage_applications">Apps beheren</string>
+    <string name="dlg_app_replacement_title">Deze app vervangen?</string>
+    <string name="dlg_app_replacement_statement">"De app die u probeert te installeren zal een andere app vervangen.
+ 
+Het systeem zal al uw vorige gebruikersdata opslaan"</string>
+    <string name="dlg_sys_app_replacement_statement">"Dit is een systeem app
+
+Het systeem zal al uw vorige gebruikersdata opslaan"</string>
+    <string name="out_of_space_dlg_title">Niet genoeg vrije ruimte</string>
+    <string name="out_of_space_dlg_text">Kan %1$s niet installeren. Maak ruimte vrij en probeer opnieuw</string>
+    <string name="dlg_ok">Ok</string>
+    <string name="app_not_found_dlg_title">App niet gevonden</string>
+    <string name="app_not_found_dlg_text">Kan app niet vinden in de lijst van geïnstalleerde apps</string>
+    <string name="uninstall_application_title">App verwijderen</string>
+    <string name="uninstall_update_title">Updates verwijderen</string>
+    <string name="uninstall_activity_text">%1$s van de volgende app:</string>
+    <string name="uninstall_application_text">Deze app verwijderen?</string>
+    <string name="uninstall_application_text_all_users">Deze app voor <b>alle</b> gebruikers verwijderen? Het systeem zal deze app en de gegevens voor deze app voor <b>alle</b> gebruikers verwijderen</string>
+    <string name="uninstall_application_text_user">Deze app voor %1$s verwijderen?</string>
+    <string name="uninstall_update_text">Deze app terugzetten naar de fabriek versie?</string>
+    <string name="uninstalling">Verwijderen…</string>
+    <string name="uninstall_done">Verwijderen voltooid.</string>
+    <string name="uninstall_failed">Kan niet verwijderen.</string>
+    <string name="uninstall_failed_device_policy_manager">Deze app is de huidige apparaat beheerder en kan niet worden verwijderd.</string>
+    <string name="uninstall_blocked_profile_owner">Dit is nodig voor %1$s en kan niet verwijderd worden.</string>
+    <string name="uninstall_blocked_device_owner">Deze app is vereist door het apparaat beheerder en kan niet worden verwijderd.</string>
+    <string name="manage_device_administrators">Apparaat beheerder beheren</string>
+    <string name="uninstall_failed_msg">Kan %1$s niet verwijderen.</string>
+    <string name="Parse_error_dlg_title">Parsing fout</string>
+    <string name="Parse_error_dlg_text">Fout bij parsing app pakket</string>
+    <string name="newPerms">Nieuwe toestemmingen</string>
+    <string name="allPerms">Alle</string>
+    <string name="privacyPerms">Privacy toestemmingen</string>
+    <string name="devicePerms">Apparaat toestemmingen</string>
+    <string name="no_new_perms">De geüpdate versie heeft geen nieuwe toestemmingen nodig.</string>
+    <string name="grant_confirm_question">Deze app de volgende toestemmingen verlenen?</string>
+    <string name="unknow_source">Beperkingen opgeven</string>
+    <string name="relieve_Prohibition">Beperkingen opgeven</string>
+    <string name="unknow_source_message">"Om veiligheidsredenen heeft het systeem de installatie van de app van officiële bronnen beperkt. De beperkingen opgeven zal u toelaten om apps uit elke bron te installeren, maar uw telefoon veiligheid en persoonlijke informatie kan in gevaar worden gebracht en u zal zelf verantwoordelijk voor dergelijke veiligheidsrisico's zijn.
+ U mag deze instellingen wijzigen in Instellingen > Veiligheid."</string>
+    <string name="apk_uncompatible">%1$s deze app en geïnstalleerde app zijn niet compatibel. Verwijder deze app te of download de nieuwste versie en probeer het opnieuw te installeren.</string>
+    <string name="apk_unnormal">APK is beschadigd en niet in staat om geïnstalleerd  te worden . Opnieuw downloaden.</string>
+    <string name="apk_Version_low">Een nieuwere versie van deze app bestaat al op uw apparaat. Download een hogere versie.</string>
+    <string name="apk_location_Incorrect">Installatiemap is niet juist.</string>
+    <string name="apk_Unknown_error">Installatie mislukt vanwege een onbekende fout. Downloaden de nieuwste versie van deze app en probeer het opnieuw installeren.</string>
+    <string name="apk_redownload">Opnieuw downloaden</string>
+    <string name="clear_space">Ruimte vrijmaken</string>
+    <string name="parsing_failure">Deze APK file is beschadigd. Kan het niet openen.</string>
+    <string name="other_permissions">Andere toestemmingen</string>
+    <string name="app_version">Versie: %1$s</string>
+    <string name="low_compare_SDK">App versie is te oud. Download de nieuwste versie van de app.</string>
+    <string name="update_system">Systeem updaten</string>
+    <string name="install_failed_system_error">Er een fout in het systeem opgetreden tijdens  het voltooien van de installatie. Het is raadzaam om uw systeem naar de nieuwste versie te updaten.</string>
+    <string name="not_enough_storage_space">Niet genoeg opslagruimte. Maak ruimte vrij en probeer opnieuw.</string>
+    <string name="sdk_too_low">De installatie is mislukt omdat de systeem versie te laag is. Update uw systeem voordat u installeerd.</string>
+    <string name="apk_uncompatible_with_letv">Letv Video Edge geoptimaliseerd voor EUI is geïnstalleerd op uw telefoon. Oudere versies van Letv Video worden nu  niet ondersteund.</string>
+    <string name="select_delete_apk">APK verwijderen</string>
+    <string name="delete_apk_faile">Kan APK niet verwijderen</string>
+    <string name="delete_apk_success">APK verwijderd</string>
+    <string name="no_perms">App heeft geen toestemmingen nodig</string>
+    <string name="delete_apk_toast">APK %1$s verwijderd</string>
+    <string name="installing">%1$d%% geïnstalleerd</string>
+    <string name="high_risk_permissions">Hoge risico toestemmingen, (related to security and privacy; charges may be incurred)</string>
+    <string name="install_failed_duplicate_permission">De gevraagde toestemmingen van deze apps zijn in conflict de aangepaste toestemmingen %2$s aangevraagd door de geïnstalleerde app %1$s, die het Android 5.0 systeem specificaties schendt. We zullen de ontwikkelaars aanmoedigen om de bijgewerkte versies compatibel te maken met de systeem specificaties.</string>
+</resources>

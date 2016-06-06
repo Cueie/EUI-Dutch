@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_images_deleted">
+        <item quantity="other">Deze %1$d afbeeldingen verwijderen</item>
+        <item quantity="zero">Deze %1$d afbeelding verwijderen</item>
+        <item quantity="one">Deze %1$d afbeelding verwijderen</item>
+    </plurals>
+    <plurals name="number_of_videos_deleted">
+        <item quantity="other">Deze %1$d video\'s verwijderen</item>
+        <item quantity="zero">Deze %1$d video verwijderen</item>
+        <item quantity="one">Deze %1$d video verwijderen</item>
+    </plurals>
+    <plurals name="number_of_items_deleted">
+        <item quantity="other">Deze %1$d items verwijderen</item>
+        <item quantity="zero">Deze %1$d item verwijderen</item>
+        <item quantity="one">Deze %1$d item verwijderen</item>
+    </plurals>
+    <plurals name="number_of_images_deleted_in_fav">
+        <item quantity="other">Afbeeldingen verwijderen uit favoriete album zal leiden tot de verwijdering van originele afbeeldingen, als u de afbeeldingen wilt niet wilt weergeven in uw favoriete album, gebruik dan verwijderen uit favoriten icoon. Bent u zeker om deze %1$d afbeeldingen te verwijderen?</item>
+        <item quantity="zero">Een afbeelding verwijderen uit favoriete album zal leiden tot de verwijdering van originele afbeelding, als u de afbeelding wilt niet wilt weergeven in uw favoriete album, gebruik dan verwijderen uit favoriten icoon. Bent u zeker om deze %1$d afbeelding te verwijderen?</item>
+        <item quantity="one">Een afbeelding verwijderen uit favoriete album zal leiden tot de verwijdering van originele afbeelding, als u de afbeelding wilt niet wilt weergeven in uw favoriete album, gebruik dan verwijderen uit favoriten icoon. Bent u zeker om deze %1$d afbeelding te verwijderen?</item>
+    </plurals>
+    <plurals name="number_of_videos_deleted_in_fav">
+        <item quantity="other">Video\'s verwijderen uit favoriete album zal leiden tot de verwijdering van originele video\'s, als u de afbeeldingen wilt niet wilt weergeven in uw favoriete album, gebruik dan verwijderen uit favoriten icoon. Bent u zeker om deze %1$d video\'s te verwijderen?</item>
+        <item quantity="zero">Een video verwijderen uit favoriete album zal leiden tot de verwijdering van originele video\'s, als u de afbeeldingen wilt niet wilt weergeven in uw favoriete album, gebruik dan verwijderen uit favoriten icoon. Bent u zeker om deze %1$d video te verwijderen?</item>
+        <item quantity="one">Een video verwijderen uit favoriete album zal leiden tot de verwijdering van originele video\'s, als u de afbeeldingen wilt niet wilt weergeven in uw favoriete album, gebruik dan verwijderen uit favoriten icoon. Bent u zeker om deze %1$d video te verwijderen?</item>
+    </plurals>
+    <plurals name="number_of_items_deleted_in_fav">
+        <item quantity="other">Items verwijderen uit favoriete album zal leiden tot de verwijdering van originele video\'s, als u de items wilt niet wilt weergeven in uw favoriete album, gebruik dan verwijderen uit favoriten icoon. Bent u zeker om deze %1$d items te verwijderen?</item>
+        <item quantity="zero">Items verwijderen uit favoriete album zal leiden tot de verwijdering van originele video\'s, als u de items wilt niet wilt weergeven in uw favoriete album, gebruik dan verwijderen uit favoriten icoon. Bent u zeker om deze %1$d item te verwijderen?</item>
+        <item quantity="one">Items verwijderen uit favoriete album zal leiden tot de verwijdering van originele video\'s, als u de items wilt niet wilt weergeven in uw favoriete album, gebruik dan verwijderen uit favoriten icoon. Bent u zeker om deze %1$d item te verwijderen?</item>
+    </plurals>
+    <plurals name="number_of_images_deleted_have_fav">
+        <item quantity="other">%1$d afbeeldingen verwijderen</item>
+        <item quantity="zero">%1$d afbeelding verwijderen</item>
+        <item quantity="one">%1$d afbeelding verwijderen</item>
+    </plurals>
+    <plurals name="number_of_videos_deleted_have_fav">
+        <item quantity="other">%1$d video\'s verwijderen</item>
+        <item quantity="zero">%1$d video verwijderen</item>
+        <item quantity="one">%1$d video verwijderen</item>
+    </plurals>
+    <plurals name="number_of_items_deleted_have_fav">
+        <item quantity="other">%1$d items verwijderen</item>
+        <item quantity="zero">%1$d item verwijderen</item>
+        <item quantity="one">%1$d item verwijderen</item>
+    </plurals>
+    <plurals name="number_of_images_deleted_have_cloud">
+        <item quantity="other">Afbeeldingen verwijderen die zijn geüpload naar cloud zal er toe leiden dat de lokale afbeeldingen en cloud afbeeldingen verwijderd zullen worden. %1$d afbeeldingen te verwijderen?</item>
+        <item quantity="zero">Een afbeelding verwijderen die zijn geüpload naar cloud zal er toe leiden dat de lokale afbeeldingen en cloud afbeeldingen verwijderd zullen worden. %1$d afbeelding te verwijderen?</item>
+        <item quantity="one">Een afbeelding verwijderen die zijn geüpload naar cloud zal er toe leiden dat de lokale afbeeldingen en cloud afbeeldingen verwijderd zullen worden. %1$d afbeelding te verwijderen?</item>
+    </plurals>
+    <plurals name="number_of_videos_deleted_have_cloud">
+        <item quantity="other">Video\'s verwijderen die zijn geüpload naar cloud zal er toe leiden dat de lokale video\'s en cloud video\'s verwijderd zullen worden. %1$d video\'s te verwijderen?</item>
+        <item quantity="zero">Video\'s verwijderen die zijn geüpload naar cloud zal er toe leiden dat de lokale video\'s en cloud video\'s verwijderd zullen worden. %1$d video te verwijderen?</item>
+        <item quantity="one">Video\'s verwijderen die zijn geüpload naar cloud zal er toe leiden dat de lokale video\'s en cloud video\'s verwijderd zullen worden. %1$d video te verwijderen?</item>
+    </plurals>
+    <plurals name="number_of_items_deleted_have_cloud">
+        <item quantity="other">Items verwijderen die zijn geüpload naar cloud zal er toe leiden dat de lokale items en cloud items verwijderd zullen worden. %1$d items te verwijderen?</item>
+        <item quantity="zero">Items verwijderen die zijn geüpload naar cloud zal er toe leiden dat de lokale items en cloud items verwijderd zullen worden. %1$d item te verwijderen?</item>
+        <item quantity="one">Items verwijderen die zijn geüpload naar cloud zal er toe leiden dat de lokale items en cloud items verwijderd zullen worden. %1$d item te verwijderen?</item>
+    </plurals>
+    <plurals name="number_of_albums_deleted">
+        <item quantity="other">%1$d albums verwijderen</item>
+        <item quantity="zero">%1$d album verwijderen</item>
+        <item quantity="one">%1$d album verwijderen</item>
+    </plurals>
+    <plurals name="delete_selection">
+        <item quantity="other">Geselecteerde items verwijderen?</item>
+        <item quantity="one">Geselecteerd item verwijderen?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d geselecteerd</item>
+        <item quantity="zero">%1$d geselecteerd</item>
+        <item quantity="one">%1$d geselecteerd</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">%1$d geselecteerd</item>
+        <item quantity="zero">%1$d geselecteerd</item>
+        <item quantity="one">%1$d geselecteerd</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">%1$d groepen geselecteerd</item>
+        <item quantity="zero">%1$d groep geselecteerd</item>
+        <item quantity="one">%1$d groep geselecteerd</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Albums offline beschibaar maken.</item>
+        <item quantity="one">Album offline beschibaar maken.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d items gescand</item>
+        <item quantity="zero">%1$d items gescand</item>
+        <item quantity="one">%1$d item gescand</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d seconden</item>
+        <item quantity="one">1 second</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">%1$d foto\'s</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+</resources>

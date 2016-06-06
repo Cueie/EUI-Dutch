@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown">Onbekend</string>
+    <string name="calllog_provider_label">Belgeschiedenis</string>
+    <string name="blacklist_provider_label">Zwarte lijst</string>
+    <string name="sharedUserLabel">Android Core Apps</string>
+    <string name="app_label">Contacten opslag</string>
+    <string name="provider_label">Contacten</string>
+    <string name="upgrade_msg">Contacten database updaten.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Contacten updaten heeft meer geheugen nodig.</string>
+    <string name="upgrade_out_of_memory_notification_title">Opslag voor contacten updaten</string>
+    <string name="upgrade_out_of_memory_notification_text">Aanraken omudate te voltooien.</string>
+    <string name="default_directory">Contactsen</string>
+    <string name="local_invisible_directory">Andere</string>
+    <string name="voicemail_from_column">"Voicemail van "</string>
+    <string name="debug_dump_title">Contactsen database kopiëren</string>
+    <string name="debug_dump_database_message">U staat op het punt 1) Maak een kopie van uw database die alle gerelateerde contacten informatie en alle bellijsten naar het interne geheugen bevatten en 2) e-mail verzenden. Vergeet niet om de kopie te verwijderen zodra u het met succes gekopieerd hebt of de e-mail ontvangen is.</string>
+    <string name="debug_dump_delete_button">Nu verwijderen</string>
+    <string name="debug_dump_start_button">Starten</string>
+    <string name="debug_dump_email_sender_picker">Een programma kiezen om wu bestand te verzenden</string>
+    <string name="debug_dump_email_subject">Contacten Db bijgevoegd</string>
+    <string name="debug_dump_email_body">Mijn contacten database is toegevoegd met al mijn contact informatie. Voorzichtig mee omgaan.</string>
+    <string name="missing_name">(Geen naam)</string>
+    <string name="contact_event_title" formatted="false">"%1s's %2s"</string>
+</resources>

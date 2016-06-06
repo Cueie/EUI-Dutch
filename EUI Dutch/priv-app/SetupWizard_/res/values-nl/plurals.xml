@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Uitschakelen in %d seconden…</item>
+        <item quantity="one">Uitschakelen in 1 seconde…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">SIM kaarten insteken</item>
+        <item quantity="one">SIM kaart insteken</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Om uw SIM kaarten in te steken, lees de instructies die bij uw tablet meegeleverd zijn.</item>
+        <item quantity="one">Om uw SIM kaart in te steken, lees de instructies die bij uw tablet meegeleverd zijn.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Om uw SIM kaarten in te steken, lees de instructies die bij uw apparaat meegeleverd zijn.</item>
+        <item quantity="one">Om uw SIM kaarten in te steken, lees de instructies die bij uw apparaat meegeleverd zijn.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Om uw SIM kaarten in te steken, lees de instructies die bij uw telefoon meegeleverd zijn.</item>
+        <item quantity="one">Om uw SIM kaarten in te steken, lees de instructies die bij uw telefoon meegeleverd zijn.</item>
+    </plurals>
+</resources>

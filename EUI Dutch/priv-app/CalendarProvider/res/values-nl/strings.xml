@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="repeated">Herhaald</string>
+    <string name="one_time">Eén keer</string>
+    <string name="calendar_storage">Agenda opslag</string>
+    <string name="upgrade_msg">Agenda database updaten.</string>
+    <string name="calendar_default_name">Standaard</string>
+    <string name="calendar_info">Agenda info</string>
+    <string name="calendar_info_error">Fout</string>
+    <string name="calendar_info_no_calendars">Geen agenda\'s</string>
+    <string name="calendar_info_events">Afspraken: %1$d</string>
+    <string name="calendar_info_events_dirty">Afspraken: %1$d, Niet opgeslaan: %2$d</string>
+    <string name="provider_label">Agenda</string>
+    <string name="debug_tool_delete_button">Nu verwijderen</string>
+    <string name="debug_tool_start_button">Starten</string>
+    <string name="debug_tool_message">U staat op het punt 1) Maak een kopie van uw agenda database om de SD kaart / USB-opslagapparaat, dat leesbaar is door een app, en 2) e-mail verzenden. Vergeet niet om de kopie te verwijderen zodra u het met succes gekopieerd hebt of de e-mail ontvangen is.</string>
+    <string name="debug_tool_email_sender_picker">Een programma kiezen om uw bestand te verzenden</string>
+    <string name="debug_tool_email_subject">Agenda Db bijgevoegd</string>
+    <string name="debug_tool_email_body">Mijn agenda database is bijgevoegd met al mijn afspraken en persoonlijke gegevens. Voorzichtig mee omgaan.</string>
+</resources>

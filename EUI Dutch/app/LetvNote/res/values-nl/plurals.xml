@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_minute">
+        <item quantity="other">Herinnering ingesteld voor %1$d minuten</item>
+        <item quantity="one">Herinnering ingesteld voor 1 minuut</item>
+    </plurals>
+</resources>

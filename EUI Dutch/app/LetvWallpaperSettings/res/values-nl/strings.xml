@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="leui_wallpaper_setting_preferences">Systeem achtergronden</string>
+    <string name="application_name">Actergrond instellingen</string>
+    <string name="gallery_wallpaper">Galerij</string>
+    <string name="live_wallpaper">Live achtergrond</string>
+    <string name="static_wallpaper">Vaste achtergrond</string>
+    <string name="activity_not_found">App is niet geïnstalleerd</string>
+    <string name="bottom_cancel_text">Annuleren</string>
+    <string name="bottom_ok_text">Instellen als</string>
+    <string name="third_wallpaper">Andere achtergrond apps</string>
+    <string name="other_wallpapers">Andere</string>
+    <string name="not_support_format">Dit bestandsformaat kan niet gebruikt worden als achtergrond</string>
+    <string name="set_wallpaper_success">Met succes ingesteld als achtergrond</string>
+    <string name="set_wallpaper_failure">Kan niet instellen als achtergrond</string>
+    <string name="state_setting_as_wallpaper">Instellen als achtergrond</string>
+    <string name="all_selection">Alle selecties</string>
+    <string name="eui_selection">EUI collectie</string>
+</resources>

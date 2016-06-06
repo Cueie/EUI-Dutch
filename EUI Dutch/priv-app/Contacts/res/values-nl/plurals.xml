@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d oproeplijsten gevonden</item>
+        <item quantity="one">1 oproeplijst gevonden</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d contacten gevonden</item>
+        <item quantity="one">1 contact gevonden</item>
+    </plurals>
+    <plurals name="rington_count">
+        <item quantity="other">%s keer bellen</item>
+        <item quantity="one">Eén keer bellen</item>
+    </plurals>
+    <plurals name="contactsDeleteTip">
+        <item quantity="other">%s contacten verwijderen?</item>
+        <item quantity="one">Eén contact verwijderen?</item>
+    </plurals>
+    <plurals name="import_from_vcard_success">
+        <item quantity="other">Contacten importeren</item>
+        <item quantity="one">Contact importeren</item>
+    </plurals>
+    <plurals name="selectedContact">
+        <item quantity="other">%d geselecteerd</item>
+        <item quantity="one">1 geselecteerd</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d contacten hebben een telefoonnummer</item>
+        <item quantity="one">1 contact heeft een telefoonnummer</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d contacten gevonden</item>
+        <item quantity="one">1 contact gevonden</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">%0$d samengevoegd met andere</item>
+        <item quantity="one">Samenvoegen ongedaan maken</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d groepen</item>
+        <item quantity="one">1 groep</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d personen van %2$s</item>
+        <item quantity="one">%1$d contacten in %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d personen</item>
+        <item quantity="one">%1$d persoon</item>
+    </plurals>
+</resources>
