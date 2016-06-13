@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="store_picture_title">Save image</string>
-    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
-    <string name="accept">Accept</string>
-    <string name="decline">Decline</string>
-    <string name="create_calendar_title">Create calendar event</string>
-    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
-    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="store_picture_title">Afbeelding opslaan</string>
+    <string name="store_picture_message">Adv toestaan om afbeelding op te slaan in foto galerij?</string>
+    <string name="accept">Aanvaarden</string>
+    <string name="decline">Afwijzen</string>
+    <string name="create_calendar_title">Agenda afspraak aanmaken</string>
+    <string name="create_calendar_message">Adv toestaan om een agenda afspraak aan te maken?</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services fout</string>
     <string name="common_google_play_services_notification_needs_installation_title">An application requires installation of Google Play services.</string>
     <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
     <string name="common_android_wear_notification_needs_update_text">An application requires an update to the Android Wear app.</string>
