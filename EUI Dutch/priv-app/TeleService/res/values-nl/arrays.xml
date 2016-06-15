@@ -2,40 +2,40 @@
 <resources>
     <string-array name="gsm_umts_network_preferences_choices">
         <item>2G/3G (auto)</item>
-        <item>3G only</item>
-        <item>2G only</item>
+        <item>Alleen 3G</item>
+        <item>Alleen 2G</item>
     </string-array>
     <string-array name="clir_display_values">
-        <item>Default network settings</item>
-        <item>Hidden number</item>
-        <item>Display number</item>
+        <item>Standaard netwerkinstellingen</item>
+        <item>Nummer verbergen</item>
+        <item>Nummer weergeven</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>LTE/WCDMA</item>
         <item>LTE</item>
-        <item>General</item>
+        <item>Algemeen</item>
         <item>GSM/WCDMA/LTE</item>
         <item>CDMA + LTE/EvDo</item>
         <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>EvDo only</item>
-        <item>CDMA, no EvDo feature</item>
-        <item>Auto select CDMA/EvDo</item>
-        <item>Auto select GSM/WCDMA</item>
-        <item>WCDMA only</item>
-        <item>GSM only</item>
-        <item>GSM/WCDMA preferred</item>
+        <item>Alleen EvDo</item>
+        <item>CDMA, geen EvDo functie</item>
+        <item>Automatisch CDMA/EvDo selecteren</item>
+        <item>Automatisch GSM/WCDMA selecteren</item>
+        <item>Alleen WCDMA</item>
+        <item>Alleen GSM</item>
+        <item>Bij voorkeurGSM/WCDMA</item>
     </string-array>
     <string-array name="list_language_entries">
-        <item>English</item>
-        <item>French</item>
-        <item>Spanish</item>
-        <item>Japanese</item>
-        <item>Korean</item>
-        <item>Chinese</item>
-        <item>Hebrew</item>
+        <item>Engels</item>
+        <item>Frans</item>
+        <item>Spaans</item>
+        <item>Japaneen</item>
+        <item>Koreaans</item>
+        <item>Chinees</item>
+        <item>Hebreews</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
-        <item>Local system only</item>
+        <item>Alleen lokaal systeem</item>
         <item>Auto</item>
     </string-array>
     <string-array name="cdma_subscription_choices">
@@ -43,19 +43,19 @@
         <item>NV</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>TTY not enabled</item>
+        <item>TTY notiet ingeschakeld</item>
         <item>Full TTY</item>
         <item>TTY HCO</item>
         <item>TTY VCO</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
-        <item>Normal</item>
-        <item>Long</item>
+        <item>Normaal</item>
+        <item>Lang</item>
     </string-array>
 	    <string-array name="uplmn_prefer_network_mode_td_choices">
         <item>GSM</item>
         <item>TD-SCDMA</item>
         <item>LTE</item>
-        <item>Triple mode</item>
+        <item>Triple modus</item>
     </string-array>
 </resources>

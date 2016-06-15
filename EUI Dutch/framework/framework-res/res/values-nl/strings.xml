@@ -29,9 +29,9 @@
     <string name="mobile_provisioning_apn" />
     <string name="mobile_provisioning_url" />
     <string name="gsm_alphabet_default_charset" />
-    <string name="db_default_journal_mode">AANHOUDEN</string>
-    <string name="db_default_sync_mode">VOLLEDIG</string>
-    <string name="db_wal_sync_mode">VOLLEDIG</string>
+    <string name="db_default_journal_mode">Aanhouden</string>
+    <string name="db_default_sync_mode">Volledig</string>
+    <string name="db_wal_sync_mode">Volledig</string>
     <string name="config_useragentprofile_url" />
     <string name="config_isoImagePath" />
     <string name="config_wimaxServiceJarLocation" />

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">No data connection for %s minutes</item>
-        <item quantity="one">No data connection for %s minute</item>
+        <item quantity="other">Geen dataverbinding voor %s minuten</item>
+        <item quantity="one">Geen dataverbinding voor %s minuut</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">The phone will be in the emergency callback mode for %s minutes. No apps that require network connection can be used in this mode. Exit now?</item>
-        <item quantity="one">The phone will be in the emergency callback mode for %s minute. No apps that require network connection can be used in this mode. Exit now?</item>
+        <item quantity="other">De telefoon zal in noodoproepmodus zijn voor %s minuten. In deze modus zijn er geen apps die gebruik maken van een netwerkverbinding . Nu afsluiten?</item>
+        <item quantity="one">TDe telefoon zal in noodoproepmodus zijn voor %s minuut. In deze modus zijn er geen apps die gebruik maken van een netwerkverbinding . Nu afsluiten?</item>
     </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">Unable to perform the selected action in emergency callback mode. The phone will be in the emergency callback mode for %s minutes. Exit now?</item>
-        <item quantity="one">Unable to perform the selected action in emergency callback mode. The phone will be in the emergency callback mode for %s minute. Exit now?</item>
+        <item quantity="other">Kan de om de geselecteerde bewerking niet uitvoeren in noodoproepmodus. De telefoon zal in noodoproep  modus zijn voor %s minuten. Nu afsluiten?</item>
+        <item quantity="one">Kan de om de geselecteerde bewerking niet uitvoeren in noodoproepmodus. De telefoon zal in noodoproep  modus zijn voor %s minuuut. Nu afsluiten?</item>
     </plurals>
 </resources>
